@@ -1,0 +1,6 @@
+.doit.db
+*.pyc
+www/
+output/
+cache/
+__pycache__
