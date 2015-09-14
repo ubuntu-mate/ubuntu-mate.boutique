@@ -256,21 +256,20 @@ location.
   </div>
 </div>
 
-<!--
-## Stickers ad Badges
+## Stickers and Badges
 
-[unixstickers.com](https://www.unixstickers.com), give your case the identity 
-it deserves! Our stickers are made from a sheet of printed vinyl, covered by a 
-layer of top quality transparent film to protect the ink and improve 
-durability and beauty, then finely cut to follow the shape we want.
-**unixtickers.com is an international store that delivers worldwide.**
+[unixstickers.com](http://www.unixstickers.com/tag/ubuntumate), give your case 
+the identity it deserves! Our stickers are made from a sheet of printed vinyl, 
+covered by a layer of top quality transparent film to protect the ink and 
+improve durability and beauty, then finely cut to follow the shape we want. 
+**unixstickers.com is an international store that delivers worldwide.**
 
 <div class="row">
   <div class="col-lg-12">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.unixstickers.com/">unixstickers - Give your case the identity is deserves.</a>
-        <a class="list-group-item" href="https://www.unixstickers.com/"><img class="centered" src="/assets/img/sponsors/unixstickers.png" alt="unixstickers.com" /></a>
+        <a class="list-group-item active" href="http://www.unixstickers.com/tag/ubuntumate">unixstickers - Give your case the identity is deserves.</a>
+        <a class="list-group-item" href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/assets/img/sponsors/unixstickers.png" alt="unixstickers.com" /></a>
       </div>
     </div>
   </div>
@@ -279,21 +278,21 @@ durability and beauty, then finely cut to follow the shape we want.
 <div class="row">
   <div class="col-lg-4">
     <div class="bs-component" align="center">
-        <a href="https://www.unixstickers.com/"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Badge.png" alt="Ubuntu MATE - Badge" /></a>
+        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Badge.png" alt="Ubuntu MATE - Badge" /></a>
         <br />
         <b>Ubuntu MATE - Badge</b>
     </div>
   </div>
   <div class="col-lg-4">
     <div class="bs-component" align="center">
-        <a href="https://www.unixstickers.com/"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Pin.png" alt="Ubuntu MATE - Pin" /></a>
+        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Pin.png" alt="Ubuntu MATE - Pin" /></a>
         <br />
         <b>Ubuntu MATE - Pin</b>
     </div>
   </div>
   <div class="col-lg-4">
     <div class="bs-component" align="center">
-        <a href="https://www.unixstickers.com/"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Keyboard.png" alt="Ubuntu MATE - Keyboard" /></a>
+        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Keyboard.png" alt="Ubuntu MATE - Keyboard" /></a>
         <br />
         <b>Ubuntu MATE - Keyboard</b>
     </div>
@@ -303,10 +302,9 @@ durability and beauty, then finely cut to follow the shape we want.
 <div class="row">
   <div class="col-lg-12">
     <div class="bs-component" align="center">
-        <a href="https://www.unixstickers.com/"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Shaped.png" alt="Ubuntu MATE - Shaped" /></a>
+        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/gallery/unixstickers/Ubuntu-MATE-Shaped.png" alt="Ubuntu MATE - Shaped" /></a>
         <br />
         <b>Ubuntu MATE - Shapes</b>
     </div>
   </div>
 </div>
--->
