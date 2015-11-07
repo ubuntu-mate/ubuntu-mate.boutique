@@ -2,7 +2,7 @@
 .. title: Ubuntu MATE Boutique
 .. slug: index
 .. date: 2015-06-04 23:01:09 UTC
-.. tags: Ubuntu,MATE,Shop,Store,Boutique
+.. tags: Ubuntu MATE,Shop,Store,Boutique,Stickers,Shirts,Computers,Laptops,Desktops,USB,Entroware
 .. link:
 .. description:
 .. type: text
@@ -10,14 +10,12 @@
 
 ## Computers
 
-### Entroware
-
-Entroware is a UK based Linux computer manufacturer, founded in early
-2014, providing a range of quality Linux computers focused on a
-complete *"out of the box"* Linux experience, with a heavy focus on
-hardware compatibility. Entroware are offering the option to purchase
-their entire range of computers with Ubuntu MATE pre-installed including
-full support.
+[Entroware](https://entroware.com) is a UK based Linux computer
+manufacturer, founded in early 2014, providing a range of quality Linux
+computers focused on a complete *"out of the box"* Linux experience,
+with a heavy focus on hardware compatibility. Entroware are offering
+the option to purchase their entire range of computers with Ubuntu MATE
+pre-installed including full support.
 
 <div class="row">
   <div class="col-lg-12">
@@ -147,7 +145,12 @@ full support.
   </div>
 </div>
 
-### LibreTrend
+### LibreBox
+
+LibreTrend are the designer and manufacturer of the [LibreBox](http://www.libretrend.com/en/hardware),
+a computer geared towards providing a complete *"out of the box"* Linux
+experience, with a heavy focus on hardware compatibility. All the hardware in
+the LibreBox is Free Software friendly and 100% supported by *"blobless"* Linux drivers.
 
 <div class="row">
   <div class="col-lg-12">
@@ -156,13 +159,6 @@ full support.
     </div>
   </div>
 </div>
-
-### LibreBox
-
-LibreTrend are the designer and manufacturer of the [LibreBox](http://www.libretrend.com/en/hardware),
-a computer geared towards providing a complete *"out of the box"* Linux
-experience, with a heavy focus on hardware compatibility. All the hardware in
-the LibreBox is Free Software friendly and 100% supported by *"blobless"* Linux drivers.
 
 <div class="row">
   <div class="col-lg-3">
