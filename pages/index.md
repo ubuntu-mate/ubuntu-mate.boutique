@@ -147,10 +147,12 @@ pre-installed including full support.
 
 ### LibreBox
 
-LibreTrend are the designer and manufacturer of the [LibreBox](http://www.libretrend.com/en/hardware),
-a computer geared towards providing a complete *"out of the box"* Linux
-experience, with a heavy focus on hardware compatibility. All the hardware in
-the LibreBox is Free Software friendly and 100% supported by *"blobless"* Linux drivers.
+LibreTrend are the designer and manufacturer of the
+[LibreBox](http://www.libretrend.com/en/hardware), a computer geared
+towards providing a complete *"out of the box"* Linux experience, with
+a heavy focus on hardware compatibility. All the hardware in the
+LibreBox is Free Software friendly and 100% supported by *"blobless"*
+Linux drivers.
 
 <div class="row">
   <div class="col-lg-12">
