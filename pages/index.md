@@ -8,8 +8,6 @@
 .. type: text
 -->
 
-## Computers
-
 [Entroware](https://entroware.com) is a UK based Linux computer
 manufacturer, founded in early 2014, providing a range of quality Linux
 computers focused on a complete *"out of the box"* Linux experience,
@@ -20,12 +18,12 @@ pre-installed including full support.
 <div class="row">
   <div class="col-lg-12">
     <div class="well bs-component">
-    <a href="https://entroware.com"><img class="centered" src="/images/sponsors/entroware.png" alt="Entroware" /$
+    <a href="https://entroware.com"><img class="centered" src="/images/sponsors/entroware.png" alt="Entroware" /></a>
     </div>
   </div>
 </div>
 
-### Entroware Laptops
+## Entroware Laptops
 
 <div class="row">
   <div class="col-lg-4">
@@ -100,7 +98,7 @@ pre-installed including full support.
   </div>
 </div>
 
-### Entroware Desktops
+## Entroware Desktops
 
 <div class="row">
   <div class="col-lg-4">
@@ -145,8 +143,6 @@ pre-installed including full support.
   </div>
 </div>
 
-### LibreBox
-
 LibreTrend are the designer and manufacturer of the
 [LibreBox](http://www.libretrend.com/en/hardware), a computer geared
 towards providing a complete *"out of the box"* Linux experience, with
@@ -161,6 +157,8 @@ Linux drivers.
     </div>
   </div>
 </div>
+
+## LibreBox
 
 <div class="row">
   <div class="col-lg-3">
