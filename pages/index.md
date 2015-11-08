@@ -8,13 +8,6 @@
 .. type: text
 -->
 
-[Entroware](https://entroware.com) is a UK based Linux computer
-manufacturer, founded in early 2014, providing a range of quality Linux
-computers focused on a complete *"out of the box"* Linux experience,
-with a heavy focus on hardware compatibility. Entroware are offering
-the option to purchase their entire range of computers with Ubuntu MATE
-pre-installed including full support.
-
 <div class="row">
   <div class="col-lg-12">
     <div class="well bs-component">
@@ -22,6 +15,13 @@ pre-installed including full support.
     </div>
   </div>
 </div>
+
+[Entroware](https://entroware.com) is a UK based Linux computer
+manufacturer, founded in early 2014, providing a range of quality Linux
+computers focused on a complete *"out of the box"* Linux experience,
+with a heavy focus on hardware compatibility. Entroware are offering
+the option to purchase their entire range of computers with Ubuntu MATE
+pre-installed including full support.
 
 ## Entroware Laptops
 
@@ -58,7 +58,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/apollo">Apollo</a>
         <a class="list-group-item" href="https://www.entroware.com/store/apollo"><img class="centered" src="/images/merch/entroware/apollo_new_mate.jpg" /></a>
-  	    <p class="list-group-item">Starting at <b>£499</b></p>
+        <p class="list-group-item">Starting at <b>£499</b></p>
         <p class="list-group-item">In an elegant aluminium chassis,
         Apollo is the flagship ultrabook in the Ubuntu laptop range.
         With the latest Intel Skylake CPUs, this is the must have
@@ -88,7 +88,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
         <a class="list-group-item" href="https://www.entroware.com/store/proteus"><img class="centered" src="/images/merch/entroware/proteus_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£629</b></p>
+        <p class="list-group-item">Starting at <b>£629</b></p>
         <p class="list-group-item">A 1080p screen and backlit keyboard,
         the Proteus is our flagship Ubuntu laptop. With a dedicated
         Nvidia GeForce GTX 960M chip, Entroware recommends Proteus for
@@ -106,7 +106,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/nyx">Nyx</a>
         <a class="list-group-item" href="https://www.entroware.com/store/nyx"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£349</b></p>
+        <p class="list-group-item">Starting at <b>£349</b></p>
         <p class="list-group-item">The Nyx is a perfect computer for students, developers
         and mid-range gamers who require a Linux platform. Housed in an elegant and
         minimalist case, performance and looks have never come at a better price.</p>
@@ -118,7 +118,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/aura">Aura</a>
         <a class="list-group-item" href="https://www.entroware.com/store/aura"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£379</b></p>
+        <p class="list-group-item">Starting at <b>£379</b></p>
         <p class="list-group-item">The tiny Aura packs in the latest
         Intel Broadwell i3 and i5 processors. With excellent integrated
         graphics performance and VESA mounting brackets, your school or
@@ -133,12 +133,20 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/poseidon">Poseidon</a>
         <a class="list-group-item" href="https://www.entroware.com/store/poseidon"><img class="centered" src="/images/merch/entroware/poseidon.jpg"></a>
-	      <p class="list-group-item">Starting at <b>£849</b></p>
+        <p class="list-group-item">Starting at <b>£849</b></p>
         <p class="list-group-item">When it comes to extreme Linux
         desktops, Poseidon dominates its competition. Entroware
         recommends this model for the most meticulous Ubuntu and Ubuntu
         MATE gamers, where every frame and pixel counts.</p>
       </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-12">
+    <div class="well bs-component">
+    <a href="https://www.libretrend.com/en/"><img class="centered" src="/images/sponsors/libretrend-black.png" alt="LibreTrend" /></a>
     </div>
   </div>
 </div>
@@ -149,14 +157,6 @@ towards providing a complete *"out of the box"* Linux experience, with
 a heavy focus on hardware compatibility. All the hardware in the
 LibreBox is Free Software friendly and 100% supported by *"blobless"*
 Linux drivers.
-
-<div class="row">
-  <div class="col-lg-12">
-    <div class="well bs-component">
-    <a href="https://www.libretrend.com/en/"><img class="centered" src="/images/sponsors/libretrend-black.png" alt="LibreTrend" /></a>
-    </div>
-  </div>
-</div>
 
 ## LibreBox
 
