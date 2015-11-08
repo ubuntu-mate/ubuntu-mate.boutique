@@ -195,10 +195,7 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
 <div class="row">
   <div class="col-lg-12">
     <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.hellotux.com/">HELLOTUX Quality Embroidered Shirts</a>
-        <a class="list-group-item" href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/sponsors/hellotux.png" alt="HELLOTUX" /></a>
-      </div>
+        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/sponsors/hellotux.png" alt="HELLOTUX" /></a>
     </div>
   </div>
 </div>
@@ -244,11 +241,8 @@ improve durability and beauty, then finely cut to follow the shape we want.
 
 <div class="row">
   <div class="col-lg-12">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="http://www.unixstickers.com/tag/ubuntumate">unixstickers - Give your case the identity is deserves.</a>
-        <a class="list-group-item" href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/sponsors/unixstickers.png" alt="unixstickers.com" /></a>
-      </div>
+    <div class="well bs-component">
+        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/sponsors/unixstickers.png" alt="unixstickers.com" /></a>
     </div>
   </div>
 </div>
@@ -299,12 +293,9 @@ on any USB equipped PC.</b>
 
 <div class="row">
   <div class="col-lg-12">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.osdisc.com/">OSDisc.com</a>
-        <a class="list-group-item" href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">
+    <div class="well bs-component">
+        <a href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">
         <img class="centered" src="/images/sponsors/osdisc.png" alt="OSDisc.com" /></a>
-      </div>
     </div>
   </div>
 </div>
