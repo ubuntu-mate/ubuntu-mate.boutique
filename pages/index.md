@@ -201,28 +201,42 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
 </div>
 
 <div class="row">
-  <div class="col-lg-3">
+  <div class="col-lg-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-polo-kiwi-front.jpg" alt="Ubuntu MATE Polo - Front" /></a>
         <br />
         <b>Ubuntu MATE Polo - Front</b>
     </div>
   </div>
-  <div class="col-lg-3">
+  <div class="col-lg-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-polo-kiwi-back.jpg" alt="Ubuntu MATE Polo - Back" /></a>
         <br />
         <b>Ubuntu MATE Polo - Back</b>
     </div>
   </div>
-  <div class="col-lg-3">
+  <div class="col-lg-2">
+    <div class="bs-component" align="center">
+        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-1.png" alt="Ubuntu MATE Jacket" /></a>
+        <br />
+        <b>Ubuntu MATE Jacket- Black</b>
+    </div>
+  </div>
+  <div class="col-lg-2">
+    <div class="bs-component" align="center">
+        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-2.png" alt="Ubuntu MATE Jacket" /></a>
+        <br />
+        <b>Ubuntu MATE Jacket- Black</b>
+    </div>
+  </div>
+  <div class="col-lg-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-t-white-front.jpg" alt="Ubuntu MATE T-Shirt - Front" /></a>
         <br />
         <b>Ubuntu MATE T-Shirt - Front</b>
     </div>
   </div>
-  <div class="col-lg-3">
+  <div class="col-lg-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-t-white-back.jpg" alt="Ubuntu MATE T-Shirt - Back" /></a>
         <br />
@@ -283,24 +297,37 @@ improve durability and beauty, then finely cut to follow the shape we want.
 
 ## DVD and USB
 
-[OSDisc.com](https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate)
-is the leading source for Linux DVDs and USBs, serving the Linux community
-for over 10 years. Purchase ready-to-use bootable DVDs and
-[8GB - 64GB DataTraveler SE9 G2 USB 3.0](http://www.kingston.com/en/usb/personal_business#dtse9g2)
-memory sticks that come pre-installed with Ubuntu MATE and have persistent storage<i>*</i>.
-<b>Carry Ubuntu MATE, your applications and your data on a USB stick that you can boot
-on any USB equipped PC.</b>
-
 <div class="row">
-  <div class="col-lg-12">
-    <div class="well bs-component">
-        <a href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">
+  <div class="col-lg-6">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.osdisc.com/?affiliate=ubuntumate">OSDisc.com</a>
+        <a class="list-group-item" href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">
         <img class="centered" src="/images/sponsors/osdisc.png" alt="OSDisc.com" /></a>
+      </div>
+        <p><a href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">OSDisc.com</a> 
+        is a leading source for Linux DVDs and USBs. Purchase 
+        ready-to-use bootable DVDs and memory sticks that come 
+        pre-installed with Ubuntu MATE and have persistent storage.</p> 
+        <p><small><i>* Persistent storage is only available on USB 
+        sticks that are 32GB or larger</i></small></p>
     </div>
   </div>
+  <div class="col-lg-6">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.hellotux.com/ubuntumate1510_flash_drive">HELLOTUX</a>
+        <a class="list-group-item" href="https://www.hellotux.com/ubuntumate1510_flash_drive">
+        <img class="centered" src="/images/merch/hellotux/flashdrive.jpg" alt="Ubuntu MATE Branded Flash Drive" /></a>
+      </div>
+    </div>
+        <p><a href="https://www.hellotux.com/ubuntumate1510_flash_drive">HELLOTUX</a>
+        sell an Ubuntu MATE branded 8GB Metallic Unibody USB stick that is just
+        41 mm long and less than 5 mm thick. It's the perfect flash drive for
+        your key ring, always with you. HELLOTUX will also help you to upgrade
+        your flash drive to the next version of Ubuntu MATE, absolutely free.</p>
+  </div>  
 </div>
-
-<small><i>* Persistent storage is only available on USB sticks that are 32GB or larger</i></small>
 
 ## Apparel
 
