@@ -22,13 +22,26 @@ img.right {
     float: right;
 }
 
-/* Fading for social icons */
-.social-icon {
-    opacity:1.0;
-    filter:alpha(opacity=100);
+/* Ubuntu MATE Colour Scheme for Footer */
+#mate-footer {
+  text-align: center;
+  background-color: #87A556;
+  align-content: center;
+  align-items: center;
+  width: auto;
+  color: #fff;
+  padding-top: 8px;
 }
-
-.social-icon:hover {
-    opacity:0.8;
-    filter:alpha(opacity=80);
+#mate-footer img {
+  height: 48px;
+  width: 48px;
+  padding: 0px;
+  padding: 8px;
+}
+#mate-footer img:hover {
+  background-color: #9AB270
+}
+#mate-footer a {
+  color: #fff;
+  text-decoration: none;
 }

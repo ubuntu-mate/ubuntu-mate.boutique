@@ -226,7 +226,6 @@ TIMEZONE = "UTC"
 # Default is:
 FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
-
 # One or more folders containing listings to be processed and stored into
 # the output. The format is a dictionary of {source: relative destination}.
 # Default is:
@@ -488,6 +487,7 @@ ARCHIVE_FILENAME = "index.html"
 # full_path: a URL with the full path from the root
 # absolute: a complete URL (that includes the SITE_URL)
 # URL_TYPE = 'rel_path'
+
 # If USE_BASE_TAG is True, then all HTML files will include
 # something like <base href=http://foo.var.com/baz/bat> to help
 # the browser resolve relative links.
@@ -786,16 +786,16 @@ LICENSE = """
 """
 
 SOCIAL_ICONS="""
-<a class="social-icon" href="/rss.xml" title="Ubuntu MATE RSS"><img src="/assets/img/rss_circle_gray.png" alt="RSS" /></a>
-<a class="social-icon" href="https://plus.google.com/communities/108331279007926658904" title="Ubuntu MATE Google+"><img src="/assets/img/google_circle_gray.png" alt="Ubuntu MATE Google+" /></a>
-<a class="social-icon" href="https://twitter.com/ubuntu_mate" title="Ubuntu MATE Twitter"><img src="/assets/img/twitter_circle_gray.png" alt="Ubuntu MATE Twitter" /></a>
-<a class="social-icon" href="https://www.facebook.com/UbuntuMATEedition/" title="Ubuntu MATE Facebook"><img src="/assets/img/facebook_circle_gray.png" alt="Ubuntu MATE Facebook" /></a>
+<a href="https://ubuntu-mate.org/rss.xml"><img src="/assets/img/footer-feed.svg" alt="RSS Feed"></a>
+<a href="https://plus.google.com/communities/108331279007926658904"><img src="/assets/img/footer-google+.svg" alt="Ubuntu MATE on Google+"></a>
+<a href="https://twitter.com/ubuntu_mate"><img src="/assets/img/footer-twitter.svg" alt="Ubuntu MATE on Twitter"></a>
+<a href="https://www.facebook.com/UbuntuMATEedition/"><img src="/assets/img/footer-facebook.svg" alt="Ubuntu MATE on Facebook"></a>
 """
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 #CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
-CONTENT_FOOTER = '<div align="center"><small>{license} Contents &copy; {date} {author}.</small><br />{social_icons}</div>'
+CONTENT_FOOTER = '</div></div><div align="center" id="mate-footer"><small>{license} Contents &copy; {date} {author}.</small><br />{social_icons}</div>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -889,7 +889,7 @@ FUTURE_IS_NOW = False
 # If True, future dated posts are allowed in deployed output
 # Only the individual posts are published/deployed; not in indexes/sitemap
 # Generally, you want FUTURE_IS_NOW and DEPLOY_FUTURE to be the same value.
-# DEPLOY_FUTURE = False
+DEPLOY_FUTURE = False
 # If False, draft posts will not be deployed
 DEPLOY_DRAFTS = False
 
@@ -971,11 +971,12 @@ COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
-# INDEX_DISPLAY_POST_COUNT = 10
+INDEX_DISPLAY_POST_COUNT = 5
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
 # GENERATE_RSS = True
+
 # By default, Nikola does not generates Atom files for indexes and links to
 # them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
 # Atom feeds are built based on INDEX_DISPLAY_POST_COUNT and not FEED_LENGTH
@@ -1141,13 +1142,13 @@ ADDITIONAL_METADATA = {
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
-# TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards
-#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
-#                                   # see https://dev.twitter.com/cards/types
-#     # 'site': '@website',         # twitter nick for the website
-#     # 'creator': '@username',     # Username for the content creator / author.
-# }
+TWITTER_CARD = {
+     'use_twitter_cards': True,  # enable Twitter Cards
+     'card': 'summary',          # Card type, you can also use 'summary_large_image',
+                                 # see https://dev.twitter.com/cards/types
+     'site': '@ubuntu_mate',     # twitter nick for the website
+     'creator': '@m_wimpress',   # Username for the content creator / author.
+}
 
 # If webassets is installed, bundle JS and CSS into single files to make
 # site loading faster in a HTTP/1.1 environment but is not recommended for
