@@ -143,6 +143,7 @@ pre-installed including full support.
   </div>
 </div>
 
+<!--
 <div class="row">
   <div class="col-lg-12">
     <div class="well bs-component">
@@ -183,6 +184,7 @@ Linux drivers.
     <div class="bs-component">&nbsp;</div>
   </div>
 </div>
+-->
 
 ## Embroidered Shirts
 
