@@ -45,11 +45,11 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
         <a class="list-group-item" href="https://www.entroware.com/store/orion"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£379</b></p>
+	      <p class="list-group-item">Starting at <b>£449</b></p>
         <p class="list-group-item">Orion is designed with portability
         and style in mind. With verified Linux compatible components
-        and upgradeability. including an i7, grab your Ubuntu laptop
-        for home and business today.</p>
+        and upgradeability, including an i7 Skylake, grab your Ubuntu
+        laptop for home and business today.</p>
       </div>
     </div>
   </div>
