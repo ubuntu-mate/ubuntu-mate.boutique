@@ -9,7 +9,7 @@
 -->
 
 <div class="row">
-  <div class="col-lg-12">
+  <div class="col-sm-12">
     <div class="well bs-component">
     <a href="https://entroware.com"><img class="centered" src="/images/sponsors/entroware.png" alt="Entroware" /></a>
     </div>
@@ -26,7 +26,7 @@ pre-installed including full support.
 ## Entroware Laptops
 
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/triton">Triton</a>
@@ -40,7 +40,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
@@ -53,7 +53,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/apollo">Apollo</a>
@@ -69,7 +69,7 @@ pre-installed including full support.
 </div>
 
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/kratos">Kratos</a>
@@ -83,7 +83,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
@@ -101,7 +101,7 @@ pre-installed including full support.
 ## Entroware Desktops
 
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/nyx">Nyx</a>
@@ -113,7 +113,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/aura">Aura</a>
@@ -128,7 +128,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/poseidon">Poseidon</a>
@@ -145,7 +145,7 @@ pre-installed including full support.
 
 <!--
 <div class="row">
-  <div class="col-lg-12">
+  <div class="col-sm-12">
     <div class="well bs-component">
     <a href="https://www.libretrend.com/en/"><img class="centered" src="/images/sponsors/libretrend-black.png" alt="LibreTrend" /></a>
     </div>
@@ -162,10 +162,10 @@ Linux drivers.
 ## LibreBox
 
 <div class="row">
-  <div class="col-lg-3">
+  <div class="col-sm-3">
     <div class="bs-component">&nbsp;</div>
   </div>
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="http://www.libretrend.com/en/store/librebox">LibreBox</a>
@@ -180,7 +180,7 @@ Linux drivers.
       </div>
     </div>
   </div>
-  <div class="col-lg-3">
+  <div class="col-sm-3">
     <div class="bs-component">&nbsp;</div>
   </div>
 </div>
@@ -195,7 +195,7 @@ every shirt individually using a programmable embroidery machine, all powered
 by Linux. **HELLOTUX is an international store that delivers worldwide.**
 
 <div class="row">
-  <div class="col-lg-12">
+  <div class="col-sm-12">
     <div class="bs-component">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/sponsors/hellotux.png" alt="HELLOTUX" /></a>
     </div>
@@ -203,42 +203,42 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
 </div>
 
 <div class="row">
-  <div class="col-lg-2">
+  <div class="col-sm-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-polo-kiwi-front.jpg" alt="Ubuntu MATE Polo - Front" /></a>
         <br />
         <b>Ubuntu MATE Polo - Front</b>
     </div>
   </div>
-  <div class="col-lg-2">
+  <div class="col-sm-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-polo-kiwi-back.jpg" alt="Ubuntu MATE Polo - Back" /></a>
         <br />
         <b>Ubuntu MATE Polo - Back</b>
     </div>
   </div>
-  <div class="col-lg-2">
+  <div class="col-sm-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-1.png" alt="Ubuntu MATE Jacket" /></a>
         <br />
         <b>Ubuntu MATE Jacket- Black</b>
     </div>
   </div>
-  <div class="col-lg-2">
+  <div class="col-sm-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-2.png" alt="Ubuntu MATE Jacket" /></a>
         <br />
         <b>Ubuntu MATE Jacket- Black</b>
     </div>
   </div>
-  <div class="col-lg-2">
+  <div class="col-sm-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-t-white-front.jpg" alt="Ubuntu MATE T-Shirt - Front" /></a>
         <br />
         <b>Ubuntu MATE T-Shirt - Front</b>
     </div>
   </div>
-  <div class="col-lg-2">
+  <div class="col-sm-2">
     <div class="bs-component" align="center">
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-t-white-back.jpg" alt="Ubuntu MATE T-Shirt - Back" /></a>
         <br />
@@ -256,7 +256,7 @@ improve durability and beauty, then finely cut to follow the shape we want.
 **unixstickers.com is an international store that delivers worldwide.**
 
 <div class="row">
-  <div class="col-lg-12">
+  <div class="col-sm-12">
     <div class="well bs-component">
         <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/sponsors/unixstickers.png" alt="unixstickers.com" /></a>
     </div>
@@ -264,21 +264,21 @@ improve durability and beauty, then finely cut to follow the shape we want.
 </div>
 
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component" align="center">
         <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Badge.png" alt="Ubuntu MATE - Badge" /></a>
         <br />
         <b>Ubuntu MATE - Badge</b>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component" align="center">
         <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Pin.png" alt="Ubuntu MATE - Pin" /></a>
         <br />
         <b>Ubuntu MATE - Pin</b>
     </div>
   </div>
-  <div class="col-lg-4">
+  <div class="col-sm-4">
     <div class="bs-component" align="center">
         <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Keyboard.png" alt="Ubuntu MATE - Keyboard" /></a>
         <br />
@@ -288,7 +288,7 @@ improve durability and beauty, then finely cut to follow the shape we want.
 </div>
 
 <div class="row">
-  <div class="col-lg-12">
+  <div class="col-sm-12">
     <div class="bs-component" align="center">
         <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Shaped.png" alt="Ubuntu MATE - Shaped" /></a>
         <br />
@@ -300,22 +300,22 @@ improve durability and beauty, then finely cut to follow the shape we want.
 ## DVD and USB
 
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.osdisc.com/?affiliate=ubuntumate">OSDisc.com</a>
         <a class="list-group-item" href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">
         <img class="centered" src="/images/sponsors/osdisc.png" alt="OSDisc.com" /></a>
       </div>
-        <p><a href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">OSDisc.com</a> 
-        is a leading source for Linux DVDs and USBs. Purchase 
-        ready-to-use bootable DVDs and memory sticks that come 
-        pre-installed with Ubuntu MATE and have persistent storage.</p> 
-        <p><small><i>* Persistent storage is only available on USB 
+        <p><a href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">OSDisc.com</a>
+        is a leading source for Linux DVDs and USBs. Purchase
+        ready-to-use bootable DVDs and memory sticks that come
+        pre-installed with Ubuntu MATE and have persistent storage.</p>
+        <p><small><i>* Persistent storage is only available on USB
         sticks that are 32GB or larger</i></small></p>
     </div>
   </div>
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.hellotux.com/ubuntumate1510_flash_drive">HELLOTUX</a>
@@ -328,7 +328,7 @@ improve durability and beauty, then finely cut to follow the shape we want.
         41 mm long and less than 5 mm thick. It's the perfect flash drive for
         your key ring, always with you. HELLOTUX will also help you to upgrade
         your flash drive to the next version of Ubuntu MATE, absolutely free.</p>
-  </div>  
+  </div>
 </div>
 
 ## Apparel
@@ -341,7 +341,7 @@ both stores to see which offer the most favourable shipping costs to your
 location.
 
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="well bs-component" align="center">
     <a href="https://shop.spreadshirt.co.uk/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-t-shirt.png" alt="102654358-130125103"/></a>
     <a href="https://www.spreadshirt.co.uk/spreadshirt-guarantee-C4070" onclick="window.open(this.href,'','height=520,width=640,scrollbars=yes'); return false;"><img src="/images/sponsors/spreadshirt-guarantee.png" alt="spreadshirt-guarantee" /></a>
@@ -350,7 +350,7 @@ location.
     <b>Ubuntu MATE European apparel store</b>
     </div>
   </div>
-  <div class="col-lg-6">
+  <div class="col-sm-6">
     <div class="well bs-component" align="center">
     <a href="https://shop.spreadshirt.com/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-t-shirt.png" alt="102309772-1006413448"/></a>
     <a href="https://www.spreadshirt.com/spreadshirt-guarantee-C3570" onclick="window.open(this.href,'','height=500,width=640,scrollbars=yes'); return false;"><img src="/images/sponsors/spreadshirt-guarantee.png" alt="spreadshirt guarantee" /></a>
