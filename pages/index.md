@@ -88,10 +88,10 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
         <a class="list-group-item" href="https://www.entroware.com/store/proteus"><img class="centered" src="/images/merch/entroware/proteus_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£629</b></p>
+        <p class="list-group-item">Starting at <b>£999</b></p>
         <p class="list-group-item">A 1080p screen and backlit keyboard,
-        the Proteus is our flagship Ubuntu laptop. With a dedicated
-        Nvidia GeForce GTX 960M chip, Entroware recommends Proteus for
+        the new Proteus is Entroware's flagship Ubuntu laptop. With a
+        dedicated Nvidia GeForce GTX 970M chip, Entroware recommends Proteus for
         playing through your Linux Steam library.</p>
       </div>
     </div>
