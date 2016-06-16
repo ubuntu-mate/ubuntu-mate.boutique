@@ -69,7 +69,7 @@ pre-installed including full support.
 </div>
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/kratos">Kratos</a>
@@ -83,7 +83,17 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
+	      <p class="list-group-item">Starting at <b>£1099</b></p>
+        <p class="list-group-item">Coming soon...</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
