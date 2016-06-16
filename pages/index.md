@@ -101,8 +101,16 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
         <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£1099</b></p>
-        <p class="list-group-item">Coming soon...</p>
+	    <p class="list-group-item">Starting at <b>£1099</b></p>
+        <p class="list-group-item">The stunning Athena is the perfect solution 
+        to your high performance Linux workstation requirements. Whether you need to 
+        play the latest Linux games on the move or you simply need extra power on your 
+        business commute, Athena has you covered. Built to last from an Aluminium 
+        alloy and housing the latest components, Athena is ideal for replacing 
+        cumbersome desktops as well. Extra attention to detail is paid to the 
+        keyboard, with slightly concave keys ensuring that every keystroke is 
+        comfortable for prolonged periods of work and play.
+        Available with 15" and 17" displays.</p>
       </div>
     </div>
   </div>
