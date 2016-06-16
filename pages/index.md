@@ -86,16 +86,6 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£1099</b></p>
-        <p class="list-group-item">Coming soon...</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
         <a class="list-group-item" href="https://www.entroware.com/store/proteus"><img class="centered" src="/images/merch/entroware/proteus_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£999</b></p>
@@ -103,6 +93,16 @@ pre-installed including full support.
         the new Proteus is Entroware's flagship Ubuntu laptop. With a
         dedicated Nvidia GeForce GTX 970M chip, Entroware recommends Proteus for
         playing through your Linux Steam library.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
+	      <p class="list-group-item">Starting at <b>£1099</b></p>
+        <p class="list-group-item">Coming soon...</p>
       </div>
     </div>
   </div>
