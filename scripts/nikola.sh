@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 
-apt-get install \
+apt-get -y install \
     libpython3.5 \
     python3.5 \
     python3.5-dev \
     python3.5-minimal
 
-apt-get install \
+apt-get -y install \
     python-setuptools \
     python-pip
 
-apt-get install \
+apt-get -y install \
     liblcms2-dev \
     libfreetype6-dev \
     libjpeg8-dev \
@@ -23,11 +23,11 @@ apt-get install \
     libzmq-dev \
     zlib1g-dev
 
-apt-get install \
+apt-get -y install \
     closure-compiler \
     jpegoptim \
     optipng \
-    yui-compressor \
+    yui-compressor
 
 pip install --upgrade "Nikola[extras,tests]"
 
