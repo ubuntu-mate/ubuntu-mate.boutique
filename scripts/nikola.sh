@@ -30,4 +30,3 @@ sudo apt-get -y install \
     yui-compressor
 
 pip install --upgrade "Nikola[extras,tests]==7.7.9"
-
