@@ -530,8 +530,8 @@ DEPLOY_COMMANDS = {
         'rsync -a --delete output/ www/',
         'find www -type d -exec chmod 755 {} \;',
         'find www -type f -exec chmod 644 {} \;',
-        'rsync -a --delete www/ martin@can.wimpress.io:Websites/ubuntu-mate.boutique/www/',
-        'rsync -a --delete www/ martin@fra.wimpress.io:Websites/ubuntu-mate.boutique/www/',
+        'rsync -a --delete www/ matey@can.wimpress.io:ubuntu-mate.boutique/',
+        'rsync -a --delete www/ matey@fra.wimpress.io:ubuntu-mate.boutique/',
     ]
 }
 
