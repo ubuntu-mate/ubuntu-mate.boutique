@@ -24,10 +24,10 @@ apt-get install \
     zlib1g-dev
 
 apt-get install \
-    closure-compiler
-    jpegoptim
-    optipng
-    yui-compressor
+    closure-compiler \
+    jpegoptim \
+    optipng \
+    yui-compressor \
 
 pip install --upgrade "Nikola[extras,tests]"
 
