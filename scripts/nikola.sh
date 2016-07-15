@@ -8,9 +8,7 @@ apt-get install \
 
 apt-get install \
     python-setuptools \
-    python-virtualenv \
-    python-pip \
-    virtualenvwrapper
+    python-pip
 
 apt-get install \
     liblcms2-dev \
@@ -31,8 +29,5 @@ apt-get install \
     optipng
     yui-compressor
 
-mkdir -p ${HOME}/Snakepit
-virtualenv -p /usr/bin/python3.5 ${HOME}/Snakepit/nikola
-source ${HOME}/Snakepit/nikola-773/bin/activate
 pip install --upgrade "Nikola[extras,tests]"
 
