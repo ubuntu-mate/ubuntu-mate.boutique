@@ -29,5 +29,5 @@ sudo apt-get -y install \
     optipng \
     yui-compressor
 
-pip install --upgrade "Nikola==7.7.9[extras,tests]"
+pip install --upgrade "Nikola[extras,tests]==7.7.9"
 
