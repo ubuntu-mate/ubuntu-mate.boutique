@@ -533,6 +533,7 @@ DEPLOY_COMMANDS = {
         'rsync -a -e "ssh -o StrictHostKeyChecking=no" --progress --delete www/ matey@nyc.ubuntu-mate.net:ubuntu-mate.boutique/',
         'rsync -a -e "ssh -o StrictHostKeyChecking=no" --progress --delete www/ matey@sf.ubuntu-mate.net:ubuntu-mate.boutique/',
         'rsync -a -e "ssh -o StrictHostKeyChecking=no" --progress --delete www/ matey@ger.ubuntu-mate.net:ubuntu-mate.boutique/',
+        'rsync -a -e "ssh -o StrictHostKeyChecking=no" --progress --delete www/ matey@lon.ubuntu-mate.net:ubuntu-mate.boutique/',        
     ]
 }
 
