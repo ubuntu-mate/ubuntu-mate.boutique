@@ -26,7 +26,7 @@ pre-installed including full support.
 ## Entroware Laptops
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/triton">Triton</a>
@@ -40,7 +40,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
@@ -53,9 +53,6 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
@@ -70,7 +67,10 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
@@ -83,7 +83,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
