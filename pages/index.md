@@ -26,7 +26,7 @@ pre-installed including full support.
 ## Entroware Laptops
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/triton">Triton</a>
@@ -40,7 +40,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
@@ -50,19 +50,6 @@ pre-installed including full support.
         and style in mind. With verified Linux compatible components
         and upgradeability, including an i7 Skylake, grab your Ubuntu
         laptop for home and business today.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/apollo">Apollo</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/apollo"><img class="centered" src="/images/merch/entroware/apollo_new_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£499</b></p>
-        <p class="list-group-item">In an elegant aluminium chassis,
-        Apollo is the flagship ultrabook in the Ubuntu laptop range.
-        With the latest Intel Skylake CPUs, this is the must have
-        Ultrabook for Linux enthusiasts.</p>
       </div>
     </div>
   </div>
