@@ -31,12 +31,19 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/triton">Triton</a>
         <a class="list-group-item" href="https://www.entroware.com/store/triton"><img class="centered" src="/images/merch/entroware/triton_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£299</b></p>
-        <p class="list-group-item">With Intel Skylake options
-        available, Triton is ideal for people who want to secure a
-        future proof Linux platform without breaking the bank. With
-        Excellent battery life and connectivity, Triton is particularly
-        ideal for practical people who need to work on the move.</p>
+	    <p class="list-group-item">Starting at <b>£329.99</b></p>
+        <p class="list-group-item">
+        With Intel's 6th Generation Processors at the heart of every
+        Triton, embrace the luxury of reliable hardware built for Linux
+        at an affordable price. Switching to a modern Ubuntu laptop has
+        never been easier. Whether you need a fully featured Linux
+        platform or just need a modern replacement for an outdated
+        machine, become a leader in your field with Triton. When
+        productivity is of utmost importance, having a full number pad
+        can help to streamline your workflow. Ideal for students and
+        businesses for performing quick calculations and working with
+        spreadsheets.        
+        </p>
       </div>
     </div>
   </div>
@@ -45,11 +52,18 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
         <a class="list-group-item" href="https://www.entroware.com/store/orion"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£449</b></p>
-        <p class="list-group-item">Orion is designed with portability
-        and style in mind. With verified Linux compatible components
-        and upgradeability, including an i7 Skylake, grab your Ubuntu
-        laptop for home and business today.</p>
+	    <p class="list-group-item">Starting at <b>£529.99</b></p>
+        <p class="list-group-item">
+        With a beautiful HD IPS screen as standard at the popular 14", enjoy
+        clarity and portability without worrying about glare and reflections.
+        Become a true Linux advocate with Orion. Experience Intel’s latest Kaby
+        Lake processors with Orion.  Whether you need the low power consumption
+        of a Core i3 or the sheer power of a Core i7, your Orion is whatever
+        you make it. With an optional blazing fast M2 SSD, Entroware will
+        install the operating system to this drive for lightning fast boot ups
+        and application start-ups, so you can get the best out of your Ubuntu
+        laptop.
+        </p>
       </div>
     </div>
   </div>
@@ -58,12 +72,17 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/kratos">Kratos</a>
         <a class="list-group-item" href="https://www.entroware.com/store/kratos"><img class="centered" src="/images/merch/entroware/kratos_front_mate.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>£599</b></p>
-        <p class="list-group-item">With highly versatile configuration
-        options and an Nvidia GTX 950M, Kratos can be adapted to best
-        suit your Linux requirements. Switchable graphics means that
-        you can choose to prioritise raw power or excellent battery
-        life on the fly.</p>
+        <p class="list-group-item">Starting at <b>£699.99</b></p>
+        <p class="list-group-item">
+        Each Kratos is powered by Intel's 6th Generation Skylake processors.
+        Future-proofing your Linux setup has never been easier. With incredible
+        upgrade options, Kratos can be customised to your needs, whether that
+        be a mid range, stylish machine or high end Linux laptop to propel you
+        to the next level. With switchable Nvidia and Intel graphics as
+        standard, you can choose to activate the Nvidia chip for that extra
+        boost in graphics intensive applications or conserve battery life with
+        the Intel graphics.
+        </p>
       </div>
     </div>
   </div>
@@ -75,11 +94,19 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
         <a class="list-group-item" href="https://www.entroware.com/store/proteus"><img class="centered" src="/images/merch/entroware/proteus_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£999</b></p>
-        <p class="list-group-item">A 1080p screen and backlit keyboard,
-        the new Proteus is Entroware's flagship Ubuntu laptop. With a
-        dedicated Nvidia GeForce GTX 970M chip, Entroware recommends Proteus for
-        playing through your Linux Steam library.</p>
+        <p class="list-group-item">Starting at <b>£799.99</b></p>
+        <p class="list-group-item">
+        Powered by 6th Generation Skylake processors, the Proteus model is
+        perfect for high performance computing, whilst maintaining energy
+        efficiency and battery life. Proteus packs a punch with Intel Core i7
+        options and Nvidia graphics. Housed in an elegant and portable chassis,
+        never compromise between power and portability. The 14" 1080p display
+        is perfect for when attention to detail is of paramount importance.
+        Every Proteus is installed with a matte IPS panel, meaning reduced
+        reflections and improved clarity. With a backlit keyboard as standard,
+        Proteus can work with you in any lighting and excel in at its duties,
+        helping you to accomplish more with your Linux laptop.
+        </p>
       </div>
     </div>
   </div>
@@ -88,22 +115,26 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
         <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-	    <p class="list-group-item">Starting at <b>£1099</b></p>
-        <p class="list-group-item">The stunning Athena is the perfect solution 
-        to your high performance Linux workstation requirements. Whether you need to 
-        play the latest Linux games on the move or you simply need extra power on your 
-        business commute, Athena has you covered. Built to last from an Aluminium 
-        alloy and housing the latest components, Athena is ideal for replacing 
-        cumbersome desktops as well. Extra attention to detail is paid to the 
-        keyboard, with slightly concave keys ensuring that every keystroke is 
-        comfortable for prolonged periods of work and play.
-        Available with 15" and 17" displays.</p>
+	    <p class="list-group-item">Starting at <b>£1064.99</b></p>
+        <p class="list-group-item">
+        Each Athena is powered by lightning fast 6th Generation Intel Skylake
+        processors, for people who are serious about raw power. As our flagship
+        Ubuntu laptop, Athena delivers the very best in stylish portable Linux
+        computing. Entroware recommends Athena for computationally intensive
+        applications and playing through your Linux Steam library. Athena can
+        be configured with enormous storage options, including 2 x SATA drives
+        and 2 x M2 drives, for when you need blazing fast access speeds.
+        Entroware will install the operating system to the fastest drive.
+        Athena comes with a backlit keyboard installed as standard, meaning you
+        can work and play in any lighting conditions, helping you to accomplish
+        more with your Ubuntu laptop.
+        </p>
       </div>
     </div>
   </div>
 </div>
 
-## Entroware Desktops
+## Entroware Desktops & Servers
 
 <div class="row">
   <div class="col-sm-4">
@@ -111,25 +142,15 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/nyx">Nyx</a>
         <a class="list-group-item" href="https://www.entroware.com/store/nyx"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£349</b></p>
-        <p class="list-group-item">The Nyx is a perfect computer for students, developers
-        and mid-range gamers who require a Linux platform. Housed in an elegant and
-        minimalist case, performance and looks have never come at a better price.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/aura">Aura</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aura"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£379</b></p>
-        <p class="list-group-item">The tiny Aura packs in the latest
-        Intel Broadwell i3 and i5 processors. With excellent integrated
-        graphics performance and VESA mounting brackets, your school or
-        office can enjoy an increase in work space. Aura is perfect for
-        many Linux applications, including a home theatre PC,
-        development system and teaching platform.</p>
+        <p class="list-group-item">Starting at <b>£349.99</b></p>
+        <p class="list-group-item">
+        The Nyx is the perfect Ubuntu computer for students and developers who
+        require a solid Linux platform on a budget. Nyx is also ideal for
+        businesses who want to migrate their workforce over to Linux. Housed in
+        an elegant and minimalist case, performance and looks have never come
+        at a better price. With our wide range of upgrade options, Nyx can be
+        configured to meet the needs of you and your business.
+        </p>
       </div>
     </div>
   </div>
@@ -138,58 +159,37 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/poseidon">Poseidon</a>
         <a class="list-group-item" href="https://www.entroware.com/store/poseidon"><img class="centered" src="/images/merch/entroware/poseidon.jpg"></a>
-        <p class="list-group-item">Starting at <b>£849</b></p>
-        <p class="list-group-item">When it comes to extreme Linux
-        desktops, Poseidon dominates its competition. Entroware
-        recommends this model for the most meticulous Ubuntu and Ubuntu
-        MATE gamers, where every frame and pixel counts.</p>
+        <p class="list-group-item">Starting at <b>£749.99</b></p>
+        <p class="list-group-item">
+        When it comes to extreme Linux desktops, Poseidon dominates the
+        competition. Entroware recommends this model for the most meticulous
+        Ubuntu and Ubuntu MATE users, where every frame and pixel counts on
+        multi monitor setups.  We also recommend Poseidon for computationally
+        intensive data processing, modelling and other high performance
+        computing applications.  Poseidon can be configured to meet the needs
+        of you and your business, with our extensive range of upgrade options.
+        </p>
       </div>
     </div>
   </div>
-</div>
-
-<!--
-<div class="row">
-  <div class="col-sm-12">
-    <div class="well bs-component">
-    <a href="https://www.libretrend.com/en/"><img class="centered" src="/images/sponsors/libretrend-black.png" alt="LibreTrend" /></a>
-    </div>
-  </div>
-</div>
-
-LibreTrend are the designer and manufacturer of the
-[LibreBox](http://www.libretrend.com/en/hardware), a computer geared
-towards providing a complete *"out of the box"* Linux experience, with
-a heavy focus on hardware compatibility. All the hardware in the
-LibreBox is Free Software friendly and 100% supported by *"blobless"*
-Linux drivers.
-
-## LibreBox
-
-<div class="row">
-  <div class="col-sm-3">
-    <div class="bs-component">&nbsp;</div>
-  </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="http://www.libretrend.com/en/store/librebox">LibreBox</a>
-        <a class="list-group-item" href="http://www.libretrend.com/en/store/librebox"><img class="centered" src="/images/merch/libretrend/LB_TripleBox_0.jpg" /></a>
-	      <p class="list-group-item">Starting at <b>&euro;295</b></p>
-        <p class="list-group-item">LibreBox delivers the power of Free
-        Software in a small, beautiful, black alloy case. The LibreBox
-        versatility makes it ideal for any company, organization,
-        public establishment and home use. The LibreBox is built with
-        verified GNU/Linux compatible components and designed with Free
-        Software in mind.</p>
+        <a class="list-group-item active" href="https://www.entroware.com/store/servers/nucleus">Nucleus</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/servers/nucleus"><img class="centered" src="/images/merch/entroware/nucleus.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£799.99</b></p>
+        <p class="list-group-item">
+        The Nucleus is designed with reliability and redundancy in mind. With
+        up to 32GB ECC memory, 16TB storage, FreeNAS provided on an internal
+        SATA DOM and an 8 core CPU capable of saturating both gigabit ports,
+        Nucleus should be at the core of every serious home network.  Nucleus
+        is a perfect data repository for people who want to run their own
+        network services from home.
+        </p>
       </div>
     </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="bs-component">&nbsp;</div>
-  </div>
+  </div>  
 </div>
--->
 
 ## Embroidered Shirts
 
@@ -224,16 +224,16 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
   </div>
   <div class="col-sm-2">
     <div class="bs-component" align="center">
-        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-1.png" alt="Ubuntu MATE Jacket" /></a>
+        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-2.jpg" alt="Ubuntu MATE Jacket" /></a>
         <br />
-        <b>Ubuntu MATE Jacket- Black</b>
+        <b>Ubuntu MATE Jacket - Black</b>
     </div>
   </div>
   <div class="col-sm-2">
     <div class="bs-component" align="center">
-        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-2.png" alt="Ubuntu MATE Jacket" /></a>
+        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_hoodie_blackgray-2.jpg" alt="Ubuntu MATE Hoodie" /></a>
         <br />
-        <b>Ubuntu MATE Jacket- Black</b>
+        <b>Ubuntu MATE Hoodie - Black/Grey</b>
     </div>
   </div>
   <div class="col-sm-2">
