@@ -31,7 +31,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/triton">Triton</a>
         <a class="list-group-item" href="https://www.entroware.com/store/triton"><img class="centered" src="/images/merch/entroware/triton_front_mate.jpg" /></a>
-	    <p class="list-group-item">Starting at <b>£329.99</b></p>
+        <p class="list-group-item">Starting at <b>£329.99</b></p>
         <p class="list-group-item">
         With Intel's 6th Generation Processors at the heart of every
         Triton, embrace the luxury of reliable hardware built for Linux
@@ -52,7 +52,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
         <a class="list-group-item" href="https://www.entroware.com/store/orion"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
-	    <p class="list-group-item">Starting at <b>£529.99</b></p>
+        <p class="list-group-item">Starting at <b>£529.99</b></p>
         <p class="list-group-item">
         With a beautiful HD IPS screen as standard at the popular 14", enjoy
         clarity and portability without worrying about glare and reflections.
@@ -67,6 +67,28 @@ pre-installed including full support.
       </div>
     </div>
   </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/ather">Aether</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£514.99</b></p>
+        <p class="list-group-item">
+        The Entroware Aether is powered by Intel's latest generation of
+        processors, ensuring maximum performance and energy efficiency.
+        Configure yours today with the choice of a Core i3, i5, or i7.
+        Accelerate your system with an additional M.2 SSD With an
+        optional blazing fast M2 SSD, Entroware will install the
+        operating system to this drive for lightning fast boot ups and
+        application start-ups, so you can get the best out of your
+        Ubuntu laptop.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
@@ -86,10 +108,7 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
@@ -110,12 +129,12 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
         <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-	    <p class="list-group-item">Starting at <b>£1064.99</b></p>
+        <p class="list-group-item">Starting at <b>£1064.99</b></p>
         <p class="list-group-item">
         Each Athena is powered by lightning fast 6th Generation Intel Skylake
         processors, for people who are serious about raw power. As our flagship
