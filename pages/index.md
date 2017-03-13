@@ -50,6 +50,25 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/ather">Aether</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£514.99</b></p>
+        <p class="list-group-item">
+        The Entroware Aether is powered by Intel's latest generation of
+        processors, ensuring maximum performance and energy efficiency.
+        Configure yours today with the choice of a Core i3, i5, or i7.
+        Accelerate your system with an additional M.2 SSD With an
+        optional blazing fast M2 SSD, Entroware will install the
+        operating system to this drive for lightning fast boot ups and
+        application start-ups, so you can get the best out of your
+        Ubuntu laptop.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
         <a class="list-group-item" href="https://www.entroware.com/store/orion"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£529.99</b></p>
@@ -63,25 +82,6 @@ pre-installed including full support.
         install the operating system to this drive for lightning fast boot ups
         and application start-ups, so you can get the best out of your Ubuntu
         laptop.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/ather">Aether</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£514.99</b></p>
-        <p class="list-group-item">
-        The Entroware Aether is powered by Intel's latest generation of
-        processors, ensuring maximum performance and energy efficiency.
-        Configure yours today with the choice of a Core i3, i5, or i7.
-        Accelerate your system with an additional M.2 SSD With an
-        optional blazing fast M2 SSD, Entroware will install the
-        operating system to this drive for lightning fast boot ups and
-        application start-ups, so you can get the best out of your
-        Ubuntu laptop.
         </p>
       </div>
     </div>
