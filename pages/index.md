@@ -50,18 +50,11 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/ather">Aether</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£514.99</b></p>
+        <a class="list-group-item active" href="https://www.entroware.com/store/apollo">Apollo</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/apollo"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£529.99</b></p>
         <p class="list-group-item">
-        The Entroware Aether is powered by Intel's latest generation of
-        processors, ensuring maximum performance and energy efficiency.
-        Configure yours today with the choice of a Core i3, i5, or i7.
-        Accelerate your system with an additional M.2 SSD With an
-        optional blazing fast M2 SSD, Entroware will install the
-        operating system to this drive for lightning fast boot ups and
-        application start-ups, so you can get the best out of your
-        Ubuntu laptop.
+        At just 17.8mm thin and from 1.3KG, the iconic Apollo is the perfect ultra mobile Linux laptop for people who need to work on the move. The Apollo is constructed using a premium Aluminium chassis, for exceptional durability and lightness. Ubuntu laptops have never looked better. With Intel's latest 7th Generation processors, up to 32GB DDR4 of memory, and PCIe/NVME storage options, the Apollo can be configured for even the most demanding of requirements. Your Apollo can be configured with LTE capability, so you are no longer tied to WiFi access points.
         </p>
       </div>
     </div>
@@ -75,12 +68,12 @@ pre-installed including full support.
         <p class="list-group-item">
         With a beautiful HD IPS screen as standard at the popular 14", enjoy
         clarity and portability without worrying about glare and reflections.
-        Become a true Linux advocate with Orion. Experience Intel’s latest Kaby
+        Become a true Linux advocate with Orion. Experience Intel's latest Kaby
         Lake processors with Orion.  Whether you need the low power consumption
         of a Core i3 or the sheer power of a Core i7, your Orion is whatever
         you make it. With an optional blazing fast M2 SSD, Entroware will
         install the operating system to this drive for lightning fast boot ups
-        and application start-ups, so you can get the best out of your Ubuntu
+        and application start-ups, so you can get the best out of your Ubuntu MATE
         laptop.
         </p>
       </div>
@@ -92,9 +85,40 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/ather">Aether</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£529.99</b></p>
+        <p class="list-group-item">
+        The Entroware Aether is powered by Intel's latest generation of
+        processors, ensuring maximum performance and energy efficiency.
+        Configure yours today with the choice of a Core i3, i5, or i7.
+        Accelerate your system with an additional M.2 SSD With an
+        optional blazing fast M2 SSD, Entroware will install the
+        operating system to this drive for lightning fast boot ups and
+        application start-ups, so you can get the best out of your
+        Ubuntu MATE laptop.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/hybris">Hybris</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/hybris"><img class="centered" src="/images/merch/entroware/hybris_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£659.99</b></p>
+        <p class="list-group-item">
+        Powered by Intel's Kaby Lake processors and optional Nvidia 10 Series Graphics, the Hybris is perfect for games, rendering, 3D modelling and GPU optimised data processing. With up to 32GB DDR4 memory and a large selection of storage options including PCIe/NVME drives, you accelerate your data access to blazing fast speeds. The Hybris comes with a 17” Matte IPS 1080p display as standard, meaning you can work and play with beautifully detailed applications. The full keyboard with number pad means you can have extra room on your desk without cumbersome peripherals. Your Hybris can be configured with backlit international keyboards, so you can be sure to feel right at home with your Linux machine and maximise your workflow in any lighting conditions. With an optional blazing fast M2 PCI Express SSD, Entroware will install the operating system to this drive for lightning fast boot ups and application start-ups, so you can get the best out of you Ubuntu MATE laptop.
+        </p>
+      </div>
+    </div>
+  </div>  
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/kratos">Kratos</a>
         <a class="list-group-item" href="https://www.entroware.com/store/kratos"><img class="centered" src="/images/merch/entroware/kratos_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£699.99</b></p>
+        <p class="list-group-item">Starting at <b>£749.99</b></p>
         <p class="list-group-item">
         Each Kratos is powered by Intel's 6th Generation Skylake processors.
         Future-proofing your Linux setup has never been easier. With incredible
@@ -108,33 +132,14 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/proteus">Proteus</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/proteus"><img class="centered" src="/images/merch/entroware/proteus_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£799.99</b></p>
-        <p class="list-group-item">
-        Powered by 6th Generation Skylake processors, the Proteus model is
-        perfect for high performance computing, whilst maintaining energy
-        efficiency and battery life. Proteus packs a punch with Intel Core i7
-        options and Nvidia graphics. Housed in an elegant and portable chassis,
-        never compromise between power and portability. The 14" 1080p display
-        is perfect for when attention to detail is of paramount importance.
-        Every Proteus is installed with a matte IPS panel, meaning reduced
-        reflections and improved clarity. With a backlit keyboard as standard,
-        Proteus can work with you in any lighting and excel in at its duties,
-        helping you to accomplish more with your Linux laptop.
-        </p>
-      </div>
-    </div>
-  </div>
+</div>
+<div class="row">
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
         <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£1064.99</b></p>
+        <p class="list-group-item">Starting at <b>£1224.99</b></p>
         <p class="list-group-item">
         Each Athena is powered by lightning fast 6th Generation Intel Skylake
         processors, for people who are serious about raw power. As our flagship
@@ -151,6 +156,10 @@ pre-installed including full support.
       </div>
     </div>
   </div>
+  <div class="col-sm-4">
+  </div>
+  <div class="col-sm-4">
+  </div>  
 </div>
 
 ## Entroware Desktops & Servers
@@ -161,7 +170,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/nyx">Nyx</a>
         <a class="list-group-item" href="https://www.entroware.com/store/nyx"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£349.99</b></p>
+        <p class="list-group-item">Starting at <b>£399.99</b></p>
         <p class="list-group-item">
         The Nyx is the perfect Ubuntu computer for students and developers who
         require a solid Linux platform on a budget. Nyx is also ideal for
@@ -243,7 +252,7 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
   </div>
   <div class="col-sm-2">
     <div class="bs-component" align="center">
-        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-2.jpg" alt="Ubuntu MATE Jacket" /></a>
+        <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntumate_jacket_black-2.png" alt="Ubuntu MATE Jacket" /></a>
         <br />
         <b>Ubuntu MATE Jacket - Black</b>
     </div>
