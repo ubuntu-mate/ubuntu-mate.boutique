@@ -42,7 +42,7 @@ pre-installed including full support.
         productivity is of utmost importance, having a full number pad
         can help to streamline your workflow. Ideal for students and
         businesses for performing quick calculations and working with
-        spreadsheets.        
+        spreadsheets.
         </p>
       </div>
     </div>
@@ -112,7 +112,7 @@ pre-installed including full support.
         </p>
       </div>
     </div>
-  </div>  
+  </div>
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
@@ -159,10 +159,10 @@ pre-installed including full support.
   <div class="col-sm-4">
   </div>
   <div class="col-sm-4">
-  </div>  
+  </div>
 </div>
 
-## Entroware Desktops & Servers
+## Entroware Desktops
 
 <div class="row">
   <div class="col-sm-4">
@@ -190,9 +190,9 @@ pre-installed including full support.
         <p class="list-group-item">Starting at <b>£449.99</b></p>
         <p class="list-group-item">
         Each Aura is powered by the latest generation of processors.
-        With excellent integrated graphics performance and VESA mounting brackets, 
+        With excellent integrated graphics performance and VESA mounting brackets,
         your school or office can enjoy an increase in work space.
-        Aura is perfect for many Linux applications, including a home theatre PC,	
+        Aura is perfect for many Linux applications, including a home theatre PC,
         development system, low powered server and teaching platform.
         </p>
       </div>
@@ -216,23 +216,6 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/servers/nucleus">Nucleus</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/servers/nucleus"><img class="centered" src="/images/merch/entroware/nucleus.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£799.99</b></p>
-        <p class="list-group-item">
-        The Nucleus is designed with reliability and redundancy in mind. With
-        up to 32GB ECC memory, 16TB storage, FreeNAS provided on an internal
-        SATA DOM and an 8 core CPU capable of saturating both gigabit ports,
-        Nucleus should be at the core of every serious home network.  Nucleus
-        is a perfect data repository for people who want to run their own
-        network services from home.
-        </p>
-      </div>
-    </div>
-  </div>  
 </div>
 
 ## Embroidered Shirts
@@ -292,6 +275,52 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
         <a href="https://www.hellotux.com/ubuntu-mate"><img class="centered" src="/images/merch/hellotux/ubuntu-mate-t-white-back.jpg" alt="Ubuntu MATE T-Shirt - Back" /></a>
         <br />
         <b>Ubuntu MATE T-Shirt - Back</b>
+    </div>
+  </div>
+</div>
+
+## Ubuntu MATE: Upgrading from Windows or OSX - the book
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="bs-component" align="center">
+        <a href="https://www.smashwords.com/books/view/731432"><img class="centered" src="/images/merch/book/cover.jpg" alt="Ubuntu MATE: Upgrading from Windows or OSX" width="256" /></a>
+    </div>
+  </div>
+  <div class="col-sm-8">
+    <div class="bs-component">
+<p>This book is a detailed discussion of Ubuntu MATE and its major
+applications. Written for users switching from other operating systems,
+it's not ONLY for users switching from other systems. It's also a
+reference for everyone using Ubuntu MATE. If you're upgrading from
+Windows or OSX, you’ll find that our suggestions for personalizing
+Ubuntu MATE will help you feel right at home.</p>
+
+<p><a href="https://www.smashwords.com/books/view/731432"><b>Available for $9.99 USD in the following ebook formats from Smashwords</b></a>:</p>
+<ul>
+<li>epub</li>
+<li>mobi</li>
+<li>pdf</li>
+<li>lrf</li>
+<li>pdb</li>
+<li>txt</li>
+<li>html</li>
+</ul>
+
+<p>Also available in <b>Paperback</b> on for <b>Kindle</b> from your regional <b>Amazon</b> store in your local currency:</p>
+<ul>
+<li><a href="https://www.amazon.com.au/dp/B074JGLB4H">Australia</a>,
+<a href="https://www.amazon.com.br/dp/B074JGLB4H">Brazil</a>,
+<a href="https://www.amazon.ca/dp/B074JGLB4H">Canada</a>,
+<a href="https://www.amazon.fr/dp/B074JGLB4H">France</a>,
+<a href="https://www.amazon.de/dp/B074JGLB4H">Germany</a>,
+<a href="https://www.amazon.in/dp/B074JGLB4H">India</a>,
+<a href="https://www.amazon.it/dp/B074JGLB4H">Italy</a>,
+<a href="https://www.amazon.co.jp/dp/B074JGLB4H">Japan</a>,
+<a href="https://www.amazon.com.mx/dp/B074JGLB4H">Mexico</a>,
+<a href="https://www.amazon.nl/dp/B074JGLB4H">Netherlands</a>,
+<a href="https://www.amazon.es/dp/B074JGLB4H">Spain</a> and <a href="https://www.amazon.co.uk/dp/B074JGLB4H">United Kingdom</a>.</li>
+</ul>
     </div>
   </div>
 </div>
