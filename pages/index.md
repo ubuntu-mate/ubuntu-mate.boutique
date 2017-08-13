@@ -85,7 +85,7 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/ather">Aether</a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/aether">Aether</a>
         <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£529.99</b></p>
         <p class="list-group-item">
@@ -120,7 +120,7 @@ pre-installed including full support.
         <a class="list-group-item" href="https://www.entroware.com/store/kratos"><img class="centered" src="/images/merch/entroware/kratos_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£749.99</b></p>
         <p class="list-group-item">
-        Each Kratos is powered by Intel's 6th Generation Skylake processors.
+        Each Kratos is powered by Intel's 7th Generation Kaby Lake processors.
         Future-proofing your Linux setup has never been easier. With incredible
         upgrade options, Kratos can be customised to your needs, whether that
         be a mid range, stylish machine or high end Linux laptop to propel you
@@ -178,6 +178,22 @@ pre-installed including full support.
         an elegant and minimalist case, performance and looks have never come
         at a better price. With our wide range of upgrade options, Nyx can be
         configured to meet the needs of you and your business.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/aura">Aura</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aura"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£449.99</b></p>
+        <p class="list-group-item">
+        Each Aura is powered by the latest generation of processors.
+        With excellent integrated graphics performance and VESA mounting brackets, 
+        your school or office can enjoy an increase in work space.
+        Aura is perfect for many Linux applications, including a home theatre PC,	
+        development system, low powered server and teaching platform.
         </p>
       </div>
     </div>

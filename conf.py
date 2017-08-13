@@ -133,6 +133,7 @@ NAVIGATION_LINKS = {
     ("https://ubuntu-mate.org/download/", "Download"),
     ("https://ubuntu-mate.org/team/", "Team"),
     ("https://ubuntu-mate.org/donate/", "Donate"),
+    ("https://ubuntu-mate.community/wiki", "Wiki"),
     ("https://ubuntu-mate.boutique/", "Shop"),
     ),
 }
