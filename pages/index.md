@@ -11,7 +11,7 @@
 <div class="row">
   <div class="col-sm-12">
     <div class="well bs-component">
-    <a href="https://entroware.com"><img class="centered" src="/images/sponsors/entroware.png" alt="Entroware" /></a>
+    <a href="https://www.entroware.com/store/?tracking=ubmate"><img class="centered" src="/images/sponsors/entroware.png" alt="Entroware" /></a>
     </div>
   </div>
 </div>
@@ -29,8 +29,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/triton">Triton</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/triton"><img class="centered" src="/images/merch/entroware/triton_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/triton?tracking=ubmate">Triton</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/triton?tracking=ubmate"><img class="centered" src="/images/merch/entroware/triton_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£329.99</b></p>
         <p class="list-group-item">
         With Intel's 6th Generation Processors at the heart of every
@@ -50,8 +50,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/apollo">Apollo</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/apollo"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/apollo?tracking=ubmate">Apollo</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/apollo?tracking=ubmate"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£529.99</b></p>
         <p class="list-group-item">
         At just 17.8mm thin and from 1.3KG, the iconic Apollo is the perfect ultra mobile Linux laptop for people who need to work on the move. The Apollo is constructed using a premium Aluminium chassis, for exceptional durability and lightness. Ubuntu laptops have never looked better. With Intel's latest 7th Generation processors, up to 32GB DDR4 of memory, and PCIe/NVME storage options, the Apollo can be configured for even the most demanding of requirements. Your Apollo can be configured with LTE capability, so you are no longer tied to WiFi access points.
@@ -62,8 +62,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/orion">Orion</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/orion"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/orion?tracking=ubmate">Orion</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/orion?tracking=ubmate"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£529.99</b></p>
         <p class="list-group-item">
         With a beautiful HD IPS screen as standard at the popular 14", enjoy
@@ -85,8 +85,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/aether">Aether</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aether"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/aether?tracking=ubmate">Aether</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aether?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£529.99</b></p>
         <p class="list-group-item">
         The Entroware Aether is powered by Intel's latest generation of
@@ -104,8 +104,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/hybris">Hybris</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/hybris"><img class="centered" src="/images/merch/entroware/hybris_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/hybris?tracking=ubmate">Hybris</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/hybris?tracking=ubmate"><img class="centered" src="/images/merch/entroware/hybris_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£659.99</b></p>
         <p class="list-group-item">
         Powered by Intel's Kaby Lake processors and optional Nvidia 10 Series Graphics, the Hybris is perfect for games, rendering, 3D modelling and GPU optimised data processing. With up to 32GB DDR4 memory and a large selection of storage options including PCIe/NVME drives, you accelerate your data access to blazing fast speeds. The Hybris comes with a 17” Matte IPS 1080p display as standard, meaning you can work and play with beautifully detailed applications. The full keyboard with number pad means you can have extra room on your desk without cumbersome peripherals. Your Hybris can be configured with backlit international keyboards, so you can be sure to feel right at home with your Linux machine and maximise your workflow in any lighting conditions. With an optional blazing fast M2 PCI Express SSD, Entroware will install the operating system to this drive for lightning fast boot ups and application start-ups, so you can get the best out of you Ubuntu MATE laptop.
@@ -116,8 +116,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/kratos">Kratos</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/kratos"><img class="centered" src="/images/merch/entroware/kratos_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/kratos?tracking=ubmate">Kratos</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/kratos?tracking=ubmate"><img class="centered" src="/images/merch/entroware/kratos_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£749.99</b></p>
         <p class="list-group-item">
         Each Kratos is powered by Intel's 7th Generation Kaby Lake processors.
@@ -137,8 +137,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/athena">Athena</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/athena"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/athena?tracking=ubmate">Athena</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/athena?tracking=ubmate"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£1224.99</b></p>
         <p class="list-group-item">
         Each Athena is powered by lightning fast 6th Generation Intel Skylake
@@ -157,6 +157,20 @@ pre-installed including full support.
     </div>
   </div>
   <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/zeus?tracking=ubmate">Zeus</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/zeus?tracking=ubmate"><img class="centered" src="/images/merch/entroware/zeus_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£1524.99</b></p>
+        <p class="list-group-item">
+        Using the latest MAX-Q designs from NVIDIA, the Zeus is just
+        18.6mm thin with a base weight of 1.9KG. The Zeus is the perfect
+        ultra portable power house whether it is to be used as a workstation
+        or a gaming machine. Additionally each Zeus can be configured with
+        LTE compatible networking, so you are no longer tied to WiFi access points.
+        </p>
+      </div>
+    </div>
   </div>
   <div class="col-sm-4">
   </div>
@@ -168,8 +182,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/nyx">Nyx</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/nyx"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/nyx?tracking=ubmate">Nyx</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/nyx?tracking=ubmate"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
         <p class="list-group-item">Starting at <b>£399.99</b></p>
         <p class="list-group-item">
         The Nyx is the perfect Ubuntu computer for students and developers who
@@ -185,8 +199,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/aura">Aura</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aura"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/aura?tracking=ubmate">Aura</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aura?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
         <p class="list-group-item">Starting at <b>£449.99</b></p>
         <p class="list-group-item">
         Each Aura is powered by the latest generation of processors.
@@ -201,8 +215,8 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/poseidon">Poseidon</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/poseidon"><img class="centered" src="/images/merch/entroware/poseidon.jpg"></a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/poseidon?tracking=ubmate">Poseidon</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/poseidon?tracking=ubmate"><img class="centered" src="/images/merch/entroware/poseidon.jpg"></a>
         <p class="list-group-item">Starting at <b>£749.99</b></p>
         <p class="list-group-item">
         When it comes to extreme Linux desktops, Poseidon dominates the
