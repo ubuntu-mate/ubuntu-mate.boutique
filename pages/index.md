@@ -29,62 +29,6 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/triton?tracking=ubmate">Triton</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/triton?tracking=ubmate"><img class="centered" src="/images/merch/entroware/triton_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£329.99</b></p>
-        <p class="list-group-item">
-        With Intel's 6th Generation Processors at the heart of every
-        Triton, embrace the luxury of reliable hardware built for Linux
-        at an affordable price. Switching to a modern Ubuntu laptop has
-        never been easier. Whether you need a fully featured Linux
-        platform or just need a modern replacement for an outdated
-        machine, become a leader in your field with Triton. When
-        productivity is of utmost importance, having a full number pad
-        can help to streamline your workflow. Ideal for students and
-        businesses for performing quick calculations and working with
-        spreadsheets.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/apollo?tracking=ubmate">Apollo</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/apollo?tracking=ubmate"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£529.99</b></p>
-        <p class="list-group-item">
-        At just 17.8mm thin and from 1.3KG, the iconic Apollo is the perfect ultra mobile Linux laptop for people who need to work on the move. The Apollo is constructed using a premium Aluminium chassis, for exceptional durability and lightness. Ubuntu laptops have never looked better. With Intel's latest 7th Generation processors, up to 32GB DDR4 of memory, and PCIe/NVME storage options, the Apollo can be configured for even the most demanding of requirements. Your Apollo can be configured with LTE capability, so you are no longer tied to WiFi access points.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/orion?tracking=ubmate">Orion</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/orion?tracking=ubmate"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£529.99</b></p>
-        <p class="list-group-item">
-        With a beautiful HD IPS screen as standard at the popular 14", enjoy
-        clarity and portability without worrying about glare and reflections.
-        Become a true Linux advocate with Orion. Experience Intel's latest Kaby
-        Lake processors with Orion.  Whether you need the low power consumption
-        of a Core i3 or the sheer power of a Core i7, your Orion is whatever
-        you make it. With an optional blazing fast M2 SSD, Entroware will
-        install the operating system to this drive for lightning fast boot ups
-        and application start-ups, so you can get the best out of your Ubuntu MATE
-        laptop.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/aether?tracking=ubmate">Aether</a>
         <a class="list-group-item" href="https://www.entroware.com/store/aether?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£529.99</b></p>
@@ -104,11 +48,59 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/orion?tracking=ubmate">Orion</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/orion?tracking=ubmate"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£629.99</b></p>
+        <p class="list-group-item">
+        With a beautiful HD IPS screen as standard at the popular 14", enjoy
+        clarity and portability without worrying about glare and reflections.
+        Become a true Linux advocate with Orion. Experience Intel's latest Kaby
+        Lake processors with Orion.  Whether you need the low power consumption
+        of a Core i3 or the sheer power of a Core i7, your Orion is whatever
+        you make it. With an optional blazing fast M2 SSD, Entroware will
+        install the operating system to this drive for lightning fast boot ups
+        and application start-ups, so you can get the best out of your Ubuntu MATE
+        laptop.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/hybris?tracking=ubmate">Hybris</a>
         <a class="list-group-item" href="https://www.entroware.com/store/hybris?tracking=ubmate"><img class="centered" src="/images/merch/entroware/hybris_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£659.99</b></p>
         <p class="list-group-item">
-        Powered by Intel's Kaby Lake processors and optional Nvidia 10 Series Graphics, the Hybris is perfect for games, rendering, 3D modelling and GPU optimised data processing. With up to 32GB DDR4 memory and a large selection of storage options including PCIe/NVME drives, you accelerate your data access to blazing fast speeds. The Hybris comes with a 17” Matte IPS 1080p display as standard, meaning you can work and play with beautifully detailed applications. The full keyboard with number pad means you can have extra room on your desk without cumbersome peripherals. Your Hybris can be configured with backlit international keyboards, so you can be sure to feel right at home with your Linux machine and maximise your workflow in any lighting conditions. With an optional blazing fast M2 PCI Express SSD, Entroware will install the operating system to this drive for lightning fast boot ups and application start-ups, so you can get the best out of you Ubuntu MATE laptop.
+        Powered by Intel's Kaby Lake processors and optional Nvidia 10 Series
+        Graphics, the Hybris is perfect for games, rendering, 3D modelling and
+        GPU optimised data processing. With up to 32GB DDR4 memory and a large
+        selection of storage options including PCIe/NVME drives, you accelerate
+        your data access to blazing fast speeds. The Hybris comes with a 17”
+        Matte IPS 1080p display as standard, meaning you can work and play
+        with beautifully detailed applications.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/apollo?tracking=ubmate">Apollo</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/apollo?tracking=ubmate"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£699.99</b></p>
+        <p class="list-group-item">
+        At just 17.8mm thin and from 1.3KG, the iconic Apollo is the perfect
+        ultra mobile Linux laptop for people who need to work on the move.
+        The Apollo is constructed using a premium Aluminium chassis, for
+        exceptional durability and lightness. Ubuntu laptops have never looked better.
+        With Intel's latest 8th Generation processors, up to 32GB DDR4 of memory,
+        and PCIe/NVME storage options, the Apollo can be configured for even the
+        most demanding of requirements. Your Apollo can be configured with LTE
+        capability, so you are no longer tied to WiFi access points.
         </p>
       </div>
     </div>
@@ -132,36 +124,31 @@ pre-installed including full support.
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/athena?tracking=ubmate">Athena</a>
         <a class="list-group-item" href="https://www.entroware.com/store/athena?tracking=ubmate"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£1224.99</b></p>
+        <p class="list-group-item">Starting at <b>£1199.99</b></p>
         <p class="list-group-item">
-        Each Athena is powered by lightning fast 6th Generation Intel Skylake
-        processors, for people who are serious about raw power. As our flagship
-        Ubuntu laptop, Athena delivers the very best in stylish portable Linux
-        computing. Entroware recommends Athena for computationally intensive
-        applications and playing through your Linux Steam library. Athena can
-        be configured with enormous storage options, including 2 x SATA drives
-        and 2 x M2 drives, for when you need blazing fast access speeds.
-        Entroware will install the operating system to the fastest drive.
-        Athena comes with a backlit keyboard installed as standard, meaning you
-        can work and play in any lighting conditions, helping you to accomplish
-        more with your Ubuntu laptop.
+        Each Athena is powered by lightning fast Intel processors, for people
+        who are serious about raw mobile performance. Entroware recommends 
+        Athena for computationally intensive applications or for playing
+        through your Linux Steam library. Athena can be configured with
+        enormous storage options, including 1 x SATA drive and 2 x M2 drives,
+        for when you need blazing fast access speeds.
         </p>
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/zeus?tracking=ubmate">Zeus</a>
         <a class="list-group-item" href="https://www.entroware.com/store/zeus?tracking=ubmate"><img class="centered" src="/images/merch/entroware/zeus_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£1524.99</b></p>
+        <p class="list-group-item">Starting at <b>£1299.99</b></p>
         <p class="list-group-item">
         Using the latest MAX-Q designs from NVIDIA, the Zeus is just
         18.6mm thin with a base weight of 1.9KG. The Zeus is the perfect
@@ -171,6 +158,8 @@ pre-installed including full support.
         </p>
       </div>
     </div>
+  </div>
+  <div class="col-sm-4">
   </div>
   <div class="col-sm-4">
   </div>
@@ -184,7 +173,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/nyx?tracking=ubmate">Nyx</a>
         <a class="list-group-item" href="https://www.entroware.com/store/nyx?tracking=ubmate"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£399.99</b></p>
+        <p class="list-group-item">Starting at <b>£449.99</b></p>
         <p class="list-group-item">
         The Nyx is the perfect Ubuntu computer for students and developers who
         require a solid Linux platform on a budget. Nyx is also ideal for
@@ -201,7 +190,7 @@ pre-installed including full support.
       <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/aura?tracking=ubmate">Aura</a>
         <a class="list-group-item" href="https://www.entroware.com/store/aura?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£449.99</b></p>
+        <p class="list-group-item">Starting at <b>£469.99</b></p>
         <p class="list-group-item">
         Each Aura is powered by the latest generation of processors.
         With excellent integrated graphics performance and VESA mounting brackets,
@@ -215,9 +204,27 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/ares?tracking=ubmate">Ares</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/ares?tracking=ubmate"><img class="centered" src="/images/merch/entroware/ares.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£639.99</b></p>
+        <p class="list-group-item">
+        The Ares all-in-one preserves desk space, making it perfect for
+        offices and classrooms. With built in wireless and Bluetooth,
+        720p webcam and vibrant 1080p display, Ares is the perfect computing 
+        solution. 
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
         <a class="list-group-item active" href="https://www.entroware.com/store/poseidon?tracking=ubmate">Poseidon</a>
         <a class="list-group-item" href="https://www.entroware.com/store/poseidon?tracking=ubmate"><img class="centered" src="/images/merch/entroware/poseidon.jpg"></a>
-        <p class="list-group-item">Starting at <b>£749.99</b></p>
+        <p class="list-group-item">Starting at <b>£779.99</b></p>
         <p class="list-group-item">
         When it comes to extreme Linux desktops, Poseidon dominates the
         competition. Entroware recommends this model for the most meticulous
@@ -229,6 +236,10 @@ pre-installed including full support.
         </p>
       </div>
     </div>
+  </div>
+  <div class="col-sm-4">
+  </div>
+  <div class="col-sm-4">
   </div>
 </div>
 
