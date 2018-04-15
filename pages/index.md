@@ -304,12 +304,14 @@ by Linux. **HELLOTUX is an international store that delivers worldwide.**
   </div>
 </div>
 
-## Ubuntu MATE: Upgrading from Windows or OSX - the book
+## Books
+
+### Ubuntu MATE: Upgrading from Windows or OSX
 
 <div class="row">
   <div class="col-sm-4">
     <div class="bs-component" align="center">
-        <a href="https://www.smashwords.com/books/view/731432"><img class="centered" src="/images/merch/book/cover.jpg" alt="Ubuntu MATE: Upgrading from Windows or OSX" width="256" /></a>
+        <a href="https://www.smashwords.com/books/view/731432"><img class="centered" src="/images/merch/book/upgrading-from-win-osx.jpg" alt="Ubuntu MATE: Upgrading from Windows or OSX" width="256" /></a>
     </div>
   </div>
   <div class="col-sm-8">
@@ -345,6 +347,51 @@ Ubuntu MATE will help you feel right at home.</p>
 <a href="https://www.amazon.com.mx/dp/B074JGLB4H">Mexico</a>,
 <a href="https://www.amazon.nl/dp/B074JGLB4H">Netherlands</a>,
 <a href="https://www.amazon.es/dp/B074JGLB4H">Spain</a> and <a href="https://www.amazon.co.uk/dp/B074JGLB4H">United Kingdom</a>.</li>
+</ul>
+    </div>
+  </div>
+</div>
+
+<br>
+
+### Using Ubuntu MATE and Its Applications
+
+<div class="row">
+  <div class="col-sm-4">
+    <div class="bs-component" align="center">
+        <a href="https://www.smashwords.com/books/view/752029"><img class="centered" src="/images/merch/book/using-ubuntu-mate.jpg" alt="Ubuntu MATE: Using Ubuntu MATE and Its Applications" width="256" /></a>
+    </div>
+  </div>
+  <div class="col-sm-8">
+    <div class="bs-component">
+<p>This book is written for computer users who want a reference detailed
+enough to help them to learn about Ubuntu MATE and its applications and
+to build their confidence and competence in using them to get things done.</p>
+
+<p><a href="https://www.smashwords.com/books/view/752029"><b>Available for $14.99 USD in the following ebook formats from Smashwords</b></a>:</p>
+<ul>
+<li>epub</li>
+<li>mobi</li>
+<li>pdf</li>
+<li>lrf</li>
+<li>pdb</li>
+<li>txt</li>
+<li>html</li>
+</ul>
+
+<p>Also available in <b>Paperback</b> on for <b>Kindle</b> from your regional <b>Amazon</b> store in your local currency:</p>
+<ul>
+<li><a href="https://www.amazon.com.au/dp/1549908154">Australia</a>,
+<a href="https://www.amazon.com.br/dp/1549908154">Brazil</a>,
+<a href="https://www.amazon.ca/dp/1549908154">Canada</a>,
+<a href="https://www.amazon.fr/dp/1549908154">France</a>,
+<a href="https://www.amazon.de/dp/1549908154">Germany</a>,
+<a href="https://www.amazon.in/dp/1549908154">India</a>,
+<a href="https://www.amazon.it/dp/1549908154">Italy</a>,
+<a href="https://www.amazon.co.jp/dp/1549908154">Japan</a>,
+<a href="https://www.amazon.com.mx/dp/1549908154">Mexico</a>,
+<a href="https://www.amazon.nl/dp/1549908154">Netherlands</a>,
+<a href="https://www.amazon.es/dp/1549908154">Spain</a> and <a href="https://www.amazon.co.uk/dp/1549908154">United Kingdom</a>.</li>
 </ul>
     </div>
   </div>
