@@ -346,7 +346,9 @@ Ubuntu MATE will help you feel right at home.</p>
 <a href="https://www.amazon.co.jp/dp/B074JGLB4H">Japan</a>,
 <a href="https://www.amazon.com.mx/dp/B074JGLB4H">Mexico</a>,
 <a href="https://www.amazon.nl/dp/B074JGLB4H">Netherlands</a>,
-<a href="https://www.amazon.es/dp/B074JGLB4H">Spain</a> and <a href="https://www.amazon.co.uk/dp/B074JGLB4H">United Kingdom</a>.</li>
+<a href="https://www.amazon.es/dp/B074JGLB4H">Spain</a>,
+<a href="https://www.amazon.co.uk/dp/B074JGLB4H">United Kingdom</a> and
+<a href="https://www.amazon.com/dp/B074JGLB4H">United States</a>.</li>
 </ul>
     </div>
   </div>
@@ -391,7 +393,9 @@ to build their confidence and competence in using them to get things done.</p>
 <a href="https://www.amazon.co.jp/dp/1549908154">Japan</a>,
 <a href="https://www.amazon.com.mx/dp/1549908154">Mexico</a>,
 <a href="https://www.amazon.nl/dp/1549908154">Netherlands</a>,
-<a href="https://www.amazon.es/dp/1549908154">Spain</a> and <a href="https://www.amazon.co.uk/dp/1549908154">United Kingdom</a>.</li>
+<a href="https://www.amazon.es/dp/1549908154">Spain</a>,
+<a href="https://www.amazon.co.uk/dp/1549908154">United Kingdom</a> and
+<a href="https://www.amazon.com/dp/1549908154">United States</a>.</li>
 </ul>
     </div>
   </div>
