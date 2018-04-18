@@ -22,33 +22,72 @@ img.right {
     float: right;
 }
 
-/* Ubuntu MATE Colour Scheme for Footer */
+/*************************************
+  Footer
+*************************************/
 #mate-footer {
-  text-align: center;
-  background-color: #87A556;
-  align-content: center;
-  align-items: center;
-  width: auto;
-  color: #fff;
-  padding-top: 8px;
-}
-#mate-footer img {
-  height: 48px;
-  width: 48px;
-  padding: 0px;
-  padding: 8px;
-  margin-top: 4px;
-  margin-bottom: 4px;
-}
-#mate-footer img:hover {
-  background-color: #9AB270;
-}
-#mate-footer a {
-  color: #fff;
-  text-decoration: none;
+    text-align: center;
+    background-color: #87A556;
+    align-content: center;
+    align-items: center;
+    width: auto;
+    color: #fff;
+    padding: 1em 0;
 }
 
-/* Improved spacing and colours */
+#mate-footer .left {
+    width: 70%;
+    display: inline-block;
+    float: left;
+    text-align: left;
+}
+
+#mate-footer .right {
+    width: 30%;
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+
+#mate-footer #copyright {
+    margin-bottom: 1em;
+}
+
+#mate-footer a {
+    color: white;
+}
+
+#mate-footer .links a + a {
+    margin-left: 1em;
+}
+
+#mate-footer #license {
+    font-size: 0.9em;
+}
+
+#mate-footer #social img {
+    height: 2em;
+    width: 2em;
+    margin: 1em .1em;
+}
+
+#mate-footer #social img:hover {
+    opacity: 0.75;
+    background-color: #9AB270;
+}
+
+#mate-footer .separator {
+    display: inline-block;
+    width: 1px;
+    height: 1.5em;
+    border-left: 1px solid white;
+    vertical-align: middle;
+    margin: 0 0.4em;
+}
+
+/*************************************
+  Spacing and header colours
+*************************************/
 .navbar-default {
   padding-top: 4px;
   padding-bottom: 4px;
