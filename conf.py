@@ -578,9 +578,7 @@ DEPLOY_COMMANDS = {
 #
 from nikola import filters
 FILTERS = {
-    ".css":  [filters.yui_compressor],
     ".html": [filters.typogrify],
-    ".js":   [filters.yui_compressor],
     ".jpg":  [filters.jpegoptim],
     ".jpeg": [filters.jpegoptim],
     ".json": [filters.jsonminify],

@@ -6,7 +6,6 @@ addons:
     packages:
     - jpegoptim
     - optipng
-    - yui-compressor
     - rsync
 install: pip install --upgrade 'Nikola[extras,tests]'
 script: nikola build
