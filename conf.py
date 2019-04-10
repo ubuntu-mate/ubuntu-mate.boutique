@@ -531,8 +531,8 @@ DEPLOY_COMMANDS = {
         'rsync -a --delete output/ www/',
         'find www -type d -exec chmod 755 {} \;',
         'find www -type f -exec chmod 644 {} \;',
-        'rsync -a -e "ssh -o StrictHostKeyChecking=no" --progress --delete www/ matey@man.ubuntu-mate.net:ubuntu-mate.boutique/',
-        'rsync -a -e "ssh -o StrictHostKeyChecking=no" --progress --delete www/ matey@yor.ubuntu-mate.net:ubuntu-mate.boutique/',
+        'rsync -a -e "ssh -o StrictHostKeyChecking=no" --delete www/ matey@man.ubuntu-mate.net:ubuntu-mate.boutique/',
+        'rsync -a -e "ssh -o StrictHostKeyChecking=no" --delete www/ matey@yor.ubuntu-mate.net:ubuntu-mate.boutique/',
     ]
 }
 
