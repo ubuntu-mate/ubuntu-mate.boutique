@@ -401,52 +401,32 @@ to build their confidence and competence in using them to get things done.</p>
   </div>
 </div>
 
-## Stickers and Badges
+## Apparel
 
-[unixstickers.com](http://www.unixstickers.com/tag/ubuntumate), give your case
-the identity it deserves! Our stickers are made from a sheet of printed vinyl,
-covered by a layer of top quality transparent film to protect the ink and
-improve durability and beauty, then finely cut to follow the shape we want.
-**unixstickers.com is an international store that delivers worldwide.**
+Ubuntu MATE has two shops for apparel, one based in Europe and one based in the
+Americas. <b>Both shops deliver worldwide and stock the same items.</b>
 
-<div class="row">
-  <div class="col-sm-12">
-    <div class="well bs-component">
-        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/sponsors/unixstickers.png" alt="unixstickers.com" /></a>
-    </div>
-  </div>
-</div>
+If you are located in Africa, Asia, Middle East or Ocenia you may want to check
+both stores to see which offer the most favourable shipping costs to your
+location.
 
 <div class="row">
-  <div class="col-sm-4">
-    <div class="bs-component" align="center">
-        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Badge.png" alt="Ubuntu MATE - Badge" /></a>
-        <br />
-        <b>Ubuntu MATE - Badge</b>
+  <div class="col-sm-6">
+    <div class="well bs-component" align="center">
+    <a href="https://shop.spreadshirt.co.uk/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-t-shirt.png" alt="102654358-130125103"/></a>
+    <a href="https://www.spreadshirt.co.uk/spreadshirt-guarantee-C4070" onclick="window.open(this.href,'','height=520,width=640,scrollbars=yes'); return false;"><img src="/images/sponsors/spreadshirt-guarantee.png" alt="spreadshirt-guarantee" /></a>
+    <a href="https://shop.spreadshirt.co.uk/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-mug.png" alt="130128260-102655146"/></a>
+    <br />
+    <b>Ubuntu MATE European apparel store</b>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="bs-component" align="center">
-        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Pin.png" alt="Ubuntu MATE - Pin" /></a>
-        <br />
-        <b>Ubuntu MATE - Pin</b>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component" align="center">
-        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Keyboard.png" alt="Ubuntu MATE - Keyboard" /></a>
-        <br />
-        <b>Ubuntu MATE - Keyboard</b>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-sm-12">
-    <div class="bs-component" align="center">
-        <a href="http://www.unixstickers.com/tag/ubuntumate"><img class="centered" src="/images/merch/unixstickers/Ubuntu-MATE-Shaped.png" alt="Ubuntu MATE - Shaped" /></a>
-        <br />
-        <b>Ubuntu MATE - Shapes</b>
+  <div class="col-sm-6">
+    <div class="well bs-component" align="center">
+    <a href="https://shop.spreadshirt.com/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-t-shirt.png" alt="102309772-1006413448"/></a>
+    <a href="https://www.spreadshirt.com/spreadshirt-guarantee-C3570" onclick="window.open(this.href,'','height=500,width=640,scrollbars=yes'); return false;"><img src="/images/sponsors/spreadshirt-guarantee.png" alt="spreadshirt guarantee" /></a>
+    <a href="https://shop.spreadshirt.com/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-mug.png" alt="1006415072-102310921" /></a>
+    <br />
+    <b>Ubuntu MATE Americas apparel store</b>
     </div>
   </div>
 </div>
@@ -482,35 +462,5 @@ improve durability and beauty, then finely cut to follow the shape we want.
         41 mm long and less than 5 mm thick. It's the perfect flash drive for
         your key ring, always with you. HELLOTUX will also help you to upgrade
         your flash drive to the next version of Ubuntu MATE, absolutely free.</p>
-  </div>
-</div>
-
-## Apparel
-
-Ubuntu MATE has two shops for apparel, one based in Europe and one based in the
-Americas. <b>Both shops deliver worldwide and stock the same items.</b>
-
-If you are located in Africa, Asia, Middle East or Ocenia you may want to check
-both stores to see which offer the most favourable shipping costs to your
-location.
-
-<div class="row">
-  <div class="col-sm-6">
-    <div class="well bs-component" align="center">
-    <a href="https://shop.spreadshirt.co.uk/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-t-shirt.png" alt="102654358-130125103"/></a>
-    <a href="https://www.spreadshirt.co.uk/spreadshirt-guarantee-C4070" onclick="window.open(this.href,'','height=520,width=640,scrollbars=yes'); return false;"><img src="/images/sponsors/spreadshirt-guarantee.png" alt="spreadshirt-guarantee" /></a>
-    <a href="https://shop.spreadshirt.co.uk/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-mug.png" alt="130128260-102655146"/></a>
-    <br />
-    <b>Ubuntu MATE European apparel store</b>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="well bs-component" align="center">
-    <a href="https://shop.spreadshirt.com/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-t-shirt.png" alt="102309772-1006413448"/></a>
-    <a href="https://www.spreadshirt.com/spreadshirt-guarantee-C3570" onclick="window.open(this.href,'','height=500,width=640,scrollbars=yes'); return false;"><img src="/images/sponsors/spreadshirt-guarantee.png" alt="spreadshirt guarantee" /></a>
-    <a href="https://shop.spreadshirt.com/ubuntu-mate/"><img src="/images/merch/spreadshirt/white-mug.png" alt="1006415072-102310921" /></a>
-    <br />
-    <b>Ubuntu MATE Americas apparel store</b>
-    </div>
   </div>
 </div>
