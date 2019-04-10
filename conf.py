@@ -780,7 +780,7 @@ LICENSE = ""
 # style="border-width:0; margin-bottom:12px;"
 # src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 LICENSE = """
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ubuntu-mate.org</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ubuntu-mate.boutique</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <br/>
 <a href="http://www.ubuntu.com/">Ubuntu</a> is a trademark of <a href="http://www.canonical.com/">Canonical Ltd</a>.
 """
