@@ -23,44 +23,17 @@ with a heavy focus on hardware compatibility. Entroware are offering
 the option to purchase their entire range of computers with Ubuntu MATE
 pre-installed including full support.
 
-## Entroware Laptops
+## Entroware Laptops & AIOs
 
 <div class="row">
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/aether?tracking=ubmate">Aether</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aether?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£529.99</b></p>
-        <p class="list-group-item">
-        The Entroware Aether is powered by Intel's latest generation of
-        processors, ensuring maximum performance and energy efficiency.
-        Configure yours today with the choice of a Core i3, i5, or i7.
-        Accelerate your system with an additional M.2 SSD With an
-        optional blazing fast M2 SSD, Entroware will install the
-        operating system to this drive for lightning fast boot ups and
-        application start-ups, so you can get the best out of your
-        Ubuntu MATE laptop.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/orion?tracking=ubmate">Orion</a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/orion?tracking=ubmate">14" Orion</a>
         <a class="list-group-item" href="https://www.entroware.com/store/orion?tracking=ubmate"><img class="centered" src="/images/merch/entroware/orion_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£629.99</b></p>
+        <p class="list-group-item">Starting at <b>£549.99</b></p>
         <p class="list-group-item">
-        With a beautiful HD IPS screen as standard at the popular 14", enjoy
-        clarity and portability without worrying about glare and reflections.
-        Become a true Linux advocate with Orion. Experience Intel's latest Kaby
-        Lake processors with Orion.  Whether you need the low power consumption
-        of a Core i3 or the sheer power of a Core i7, your Orion is whatever
-        you make it. With an optional blazing fast M2 SSD, Entroware will
-        install the operating system to this drive for lightning fast boot ups
-        and application start-ups, so you can get the best out of your Ubuntu MATE
-        laptop.
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 15" Matte FHD LED (1920x1080), Intel® UHD Graphics.
         </p>
       </div>
     </div>
@@ -68,17 +41,23 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/hybris?tracking=ubmate">Hybris</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/hybris?tracking=ubmate"><img class="centered" src="/images/merch/entroware/hybris_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£659.99</b></p>
+        <a class="list-group-item active" href="https://www.entroware.com/store/aether?tracking=ubmate">15" Aether</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/aether?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aether_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£599.99</b></p>
         <p class="list-group-item">
-        Powered by Intel's Kaby Lake processors and optional Nvidia 10 Series
-        Graphics, the Hybris is perfect for games, rendering, 3D modelling and
-        GPU optimised data processing. With up to 32GB DDR4 memory and a large
-        selection of storage options including PCIe/NVME drives, you accelerate
-        your data access to blazing fast speeds. The Hybris comes with a 17”
-        Matte IPS 1080p display as standard, meaning you can work and play
-        with beautifully detailed applications.
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 15" Matte FHD LED (1920x1080), Intel® UHD Graphics.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <a class="list-group-item active" href="https://www.entroware.com/store/apollo?tracking=ubmate">14" Apollo</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/apollo?tracking=ubmate"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£649.99</b></p>
+        <p class="list-group-item">
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 14" Matte FHD LED (1920x1080), Intel® UHD Graphics.
         </p>
       </div>
     </div>
@@ -89,18 +68,11 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/apollo?tracking=ubmate">Apollo</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/apollo?tracking=ubmate"><img class="centered" src="/images/merch/entroware/apollo_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£699.99</b></p>
+        <a class="list-group-item active" href="https://www.entroware.com/store/hybris?tracking=ubmate">17" Hybris</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/hybris?tracking=ubmate"><img class="centered" src="/images/merch/entroware/hybris_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£719.99</b></p>
         <p class="list-group-item">
-        At just 17.8mm thin and from 1.3KG, the iconic Apollo is the perfect
-        ultra mobile Linux laptop for people who need to work on the move.
-        The Apollo is constructed using a premium Aluminium chassis, for
-        exceptional durability and lightness. Ubuntu laptops have never looked better.
-        With Intel's latest 8th Generation processors, up to 32GB DDR4 of memory,
-        and PCIe/NVME storage options, the Apollo can be configured for even the
-        most demanding of requirements. Your Apollo can be configured with LTE
-        capability, so you are no longer tied to WiFi access points.
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 17" Matte FHD LED (1920x1080), Intel® UHD Graphics, optional NVIDIA® Graphics.
         </p>
       </div>
     </div>
@@ -108,18 +80,11 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/kratos?tracking=ubmate">Kratos</a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/kratos?tracking=ubmate">15" Kratos</a>
         <a class="list-group-item" href="https://www.entroware.com/store/kratos?tracking=ubmate"><img class="centered" src="/images/merch/entroware/kratos_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£749.99</b></p>
+        <p class="list-group-item">Starting at <b>£729.99</b></p>
         <p class="list-group-item">
-        Each Kratos is powered by Intel's 7th Generation Kaby Lake processors.
-        Future-proofing your Linux setup has never been easier. With incredible
-        upgrade options, Kratos can be customised to your needs, whether that
-        be a mid range, stylish machine or high end Linux laptop to propel you
-        to the next level. With switchable Nvidia and Intel graphics as
-        standard, you can choose to activate the Nvidia chip for that extra
-        boost in graphics intensive applications or conserve battery life with
-        the Intel graphics.
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 15" Matte FHD LED (1920x1080), NVIDIA® MX150 or GTX 1050 Graphics.
         </p>
       </div>
     </div>
@@ -127,16 +92,11 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/athena?tracking=ubmate">Athena</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/athena?tracking=ubmate"><img class="centered" src="/images/merch/entroware/athena_front_mate.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£1199.99</b></p>
+        <a class="list-group-item active" href="https://www.entroware.com/store/proteus?tracking=ubmate">15" Proteus</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/proteus?tracking=ubmate"><img class="centered" src="/images/merch/entroware/proteus_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£769.99</b></p>
         <p class="list-group-item">
-        Each Athena is powered by lightning fast Intel processors, for people
-        who are serious about raw mobile performance. Entroware recommends 
-        Athena for computationally intensive applications or for playing
-        through your Linux Steam library. Athena can be configured with
-        enormous storage options, including 1 x SATA drive and 2 x M2 drives,
-        for when you need blazing fast access speeds.
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 15.6" Matte FHD LED (1920x1080), Intel® UHD Graphics.
         </p>
       </div>
     </div>
@@ -146,41 +106,23 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/zeus?tracking=ubmate">Zeus</a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/zeus?tracking=ubmate">15" Zeus</a>
         <a class="list-group-item" href="https://www.entroware.com/store/zeus?tracking=ubmate"><img class="centered" src="/images/merch/entroware/zeus_front_mate.jpg" /></a>
         <p class="list-group-item">Starting at <b>£1299.99</b></p>
         <p class="list-group-item">
-        Using the latest MAX-Q designs from NVIDIA, the Zeus is just
-        18.6mm thin with a base weight of 1.9KG. The Zeus is the perfect
-        ultra portable power house whether it is to be used as a workstation
-        or a gaming machine. Additionally each Zeus can be configured with
-        LTE compatible networking, so you are no longer tied to WiFi access points.
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2666 MHz, up to 6TB storage, 15" Matte FHD LED (1920x1080) or 15" Matte 4K LED (3840x2160), NVIDIA® 1060 or 1070 Max-Q Graphics.
         </p>
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
-  </div>
-  <div class="col-sm-4">
-  </div>
-</div>
-
-## Entroware Desktops
-
-<div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-4">  
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/nyx?tracking=ubmate">Nyx</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/nyx?tracking=ubmate"><img class="centered" src="/images/merch/entroware/nyx.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£449.99</b></p>
+        <a class="list-group-item active" href="https://www.entroware.com/store/helios?tracking=ubmate">17" Helios</a>
+        <a class="list-group-item" href="https://www.entroware.com/store/helios?tracking=ubmate"><img class="centered" src="/images/merch/entroware/helios_front_mate.jpg" /></a>
+        <p class="list-group-item">Starting at <b>£1699.99</b></p>
         <p class="list-group-item">
-        The Nyx is the perfect Ubuntu computer for students and developers who
-        require a solid Linux platform on a budget. Nyx is also ideal for
-        businesses who want to migrate their workforce over to Linux. Housed in
-        an elegant and minimalist case, performance and looks have never come
-        at a better price. With our wide range of upgrade options, Nyx can be
-        configured to meet the needs of you and your business.
+Configurable with 9th Generation Intel® Core™ Processors, up to 64GB DDR4 2666 MHz, up to 12TB storage, 17" Matte FHD LED (1920x1080), NVIDIA® 2060, 2070, or 2080 Graphics.
         </p>
       </div>
     </div>
@@ -188,59 +130,24 @@ pre-installed including full support.
   <div class="col-sm-4">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/aura?tracking=ubmate">Aura</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/aura?tracking=ubmate"><img class="centered" src="/images/merch/entroware/aura.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£469.99</b></p>
-        <p class="list-group-item">
-        Each Aura is powered by the latest generation of processors.
-        With excellent integrated graphics performance and VESA mounting brackets,
-        your school or office can enjoy an increase in work space.
-        Aura is perfect for many Linux applications, including a home theatre PC,
-        development system, low powered server and teaching platform.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/ares?tracking=ubmate">Ares</a>
+        <a class="list-group-item active" href="https://www.entroware.com/store/ares?tracking=ubmate">24" Ares</a>
         <a class="list-group-item" href="https://www.entroware.com/store/ares?tracking=ubmate"><img class="centered" src="/images/merch/entroware/ares.jpg" /></a>
-        <p class="list-group-item">Starting at <b>£639.99</b></p>
+        <p class="list-group-item">Starting at <b>£699.99</b></p>
         <p class="list-group-item">
-        The Ares all-in-one preserves desk space, making it perfect for
-        offices and classrooms. With built in wireless and Bluetooth,
-        720p webcam and vibrant 1080p display, Ares is the perfect computing 
-        solution. 
+Configurable with 8th Generation Intel® Core™ Processors, up to 32GB DDR4 2400 MHz, up to 6TB storage, 24" Matte FHD LED (1920x1080), Intel® HD Graphics.
         </p>
       </div>
     </div>
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.entroware.com/store/poseidon?tracking=ubmate">Poseidon</a>
-        <a class="list-group-item" href="https://www.entroware.com/store/poseidon?tracking=ubmate"><img class="centered" src="/images/merch/entroware/poseidon.jpg"></a>
-        <p class="list-group-item">Starting at <b>£779.99</b></p>
-        <p class="list-group-item">
-        When it comes to extreme Linux desktops, Poseidon dominates the
-        competition. Entroware recommends this model for the most meticulous
-        Ubuntu and Ubuntu MATE users, where every frame and pixel counts on
-        multi monitor setups.  We also recommend Poseidon for computationally
-        intensive data processing, modelling and other high performance
-        computing applications.  Poseidon can be configured to meet the needs
-        of you and your business, with our extensive range of upgrade options.
-        </p>
-      </div>
+<div class="bs-component">
+  <div class="jumbotron">
+    <h1>Entroware Desktops & Servers</h1>
+      <p>Entroware also have a line servers and desktops from NUCs to Intel® Core™ i9-9900K and to AMD® Ryzen™ Threadripper™ power houses.</p>
+      <a href="https://www.entroware.com/store/?tracking=ubmate" class="btn btn-primary btn-lg">Entroware Store</a>
+      </p>
     </div>
-  </div>
-  <div class="col-sm-4">
-  </div>
-  <div class="col-sm-4">
-  </div>
 </div>
 
 ## Embroidered Shirts
