@@ -2,6 +2,7 @@
 
 from __future__ import unicode_literals
 import time
+import json
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
@@ -600,11 +601,11 @@ GZIP_FILES = True
 # use this feature if you do not understand what this means.
 
 # Compiler to process LESS files.
-# LESS_COMPILER = 'lessc'
+LESS_COMPILER = 'lessc'
 
 # A list of options to pass to the LESS compiler.
 # Final command is: LESS_COMPILER LESS_OPTIONS file.less
-# LESS_OPTIONS = []
+LESS_OPTIONS = []
 
 # Compiler to process Sass files.
 # SASS_COMPILER = 'sass'
@@ -796,6 +797,10 @@ FOOTER_LINKS="""
 <a href="https://ubuntu-mate.org/logo-guidelines">Logo Guidelines</a>
 <div class="separator"></div>
 <a href="https://github.com/ubuntu-mate/ubuntu-mate.boutique/commits/master" target="_blank" rel="noreferrer">Recent Site Changes</a>
+<!--
+<div class="separator"></div>
+<a href="/get-involved">Get Involved</a>
+-->
 """
 
 # A small copyright notice for the page footer (in HTML).
@@ -1105,7 +1110,9 @@ EXTRA_HEAD_DATA = """
 <meta name="msapplication-TileColor" content="#87A556">
 <meta name="msapplication-TileImage" content="/favicon-144.png">
 <meta name="msapplication-config" content="/browserconfig.xml">
-<div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
+
+<!-- Libraries -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous" async>
 """
 
 # Google Analytics or whatever else you use. Added to the bottom of <body>
