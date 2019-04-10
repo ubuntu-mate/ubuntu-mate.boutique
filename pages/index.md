@@ -359,12 +359,12 @@ location.
   <div class="col-sm-6">
     <div class="bs-component">
       <div class="list-group">
-        <a class="list-group-item active" href="https://www.hellotux.com/ubuntumate1510_flash_drive">HELLOTUX</a>
-        <a class="list-group-item" href="https://www.hellotux.com/ubuntumate1510_flash_drive">
+        <a class="list-group-item active" href="https://www.hellotux.com/ubuntumate1604_flash_drive">HELLOTUX</a>
+        <a class="list-group-item" href="https://www.hellotux.com/ubuntumate1604_flash_drive">
         <img class="centered" src="/images/merch/hellotux/flashdrive.jpg" alt="Ubuntu MATE Branded Flash Drive" /></a>
       </div>
     </div>
-        <p><a href="https://www.hellotux.com/ubuntumate1510_flash_drive">HELLOTUX</a>
+        <p><a href="https://www.hellotux.com/ubuntumate1604_flash_drive">HELLOTUX</a>
         sell an Ubuntu MATE branded 8GB Metallic Unibody USB stick that is just
         41 mm long and less than 5 mm thick. It's the perfect flash drive for
         your key ring, always with you. HELLOTUX will also help you to upgrade
