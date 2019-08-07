@@ -341,23 +341,7 @@ location.
 ## DVD and USB
 
 <div class="row">
-  <div class="col-sm-6">
-    <div class="bs-component">
-      <div class="list-group">
-        <a class="list-group-item active" href="https://www.osdisc.com/?affiliate=ubuntumate">OSDisc.com</a>
-        <a class="list-group-item" href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">
-        <img class="centered" src="/images/sponsors/osdisc.png" alt="OSDisc.com" /></a>
-      </div>
-        <p><a href="https://www.osdisc.com/products/ubuntumate?affiliate=ubuntumate">OSDisc.com</a>
-        is a leading source for Linux DVDs and USBs. Purchase
-        ready-to-use bootable DVDs and memory sticks that come
-        pre-installed with Ubuntu MATE and have persistent storage.</p>
-        <p><small><i>* Persistent storage is only available on USB
-        sticks that are 32GB or larger</i></small></p>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="bs-component">
+  <div class="bs-component">
       <div class="list-group">
         <a class="list-group-item active" href="https://www.hellotux.com/ubuntumate1604_flash_drive">HELLOTUX</a>
         <a class="list-group-item" href="https://www.hellotux.com/ubuntumate1604_flash_drive">
