@@ -290,19 +290,19 @@ to build their confidence and competence in using them to get things done.</p>
 
 <p>Also available in <b>Paperback</b> on for <b>Kindle</b> from your regional <b>Amazon</b> store in your local currency:</p>
 <ul>
-<li><a href="https://www.amazon.com.au/dp/1549908154">Australia</a>,
-<a href="https://www.amazon.com.br/dp/1549908154">Brazil</a>,
-<a href="https://www.amazon.ca/dp/1549908154">Canada</a>,
-<a href="https://www.amazon.fr/dp/1549908154">France</a>,
-<a href="https://www.amazon.de/dp/1549908154">Germany</a>,
-<a href="https://www.amazon.in/dp/1549908154">India</a>,
-<a href="https://www.amazon.it/dp/1549908154">Italy</a>,
-<a href="https://www.amazon.co.jp/dp/1549908154">Japan</a>,
-<a href="https://www.amazon.com.mx/dp/1549908154">Mexico</a>,
-<a href="https://www.amazon.nl/dp/1549908154">Netherlands</a>,
-<a href="https://www.amazon.es/dp/1549908154">Spain</a>,
-<a href="https://www.amazon.co.uk/dp/1549908154">United Kingdom</a> and
-<a href="https://www.amazon.com/dp/1549908154">United States</a>.</li>
+<li><a href="https://www.amazon.com.au/dp/1983393177">Australia</a>,
+<a href="https://www.amazon.com.br/dp/1983393177">Brazil</a>,
+<a href="https://www.amazon.ca/dp/1983393177">Canada</a>,
+<a href="https://www.amazon.fr/dp/1983393177">France</a>,
+<a href="https://www.amazon.de/dp/1983393177">Germany</a>,
+<a href="https://www.amazon.in/dp/1983393177">India</a>,
+<a href="https://www.amazon.it/dp/1983393177">Italy</a>,
+<a href="https://www.amazon.co.jp/dp/1983393177">Japan</a>,
+<a href="https://www.amazon.com.mx/dp/1983393177">Mexico</a>,
+<a href="https://www.amazon.nl/dp/1983393177">Netherlands</a>,
+<a href="https://www.amazon.es/dp/1983393177">Spain</a>,
+<a href="https://www.amazon.co.uk/dp/1983393177">United Kingdom</a> and
+<a href="https://www.amazon.com/dp/1983393177">United States</a>.</li>
 </ul>
     </div>
   </div>
