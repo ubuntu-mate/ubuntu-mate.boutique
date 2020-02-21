@@ -243,19 +243,19 @@ Ubuntu MATE will help you feel right at home.</p>
 
 <p>Also available in <b>Paperback</b> on for <b>Kindle</b> from your regional <b>Amazon</b> store in your local currency:</p>
 <ul>
-<li><a href="https://www.amazon.com.au/dp/B074JGLB4H">Australia</a>,
-<a href="https://www.amazon.com.br/dp/B074JGLB4H">Brazil</a>,
-<a href="https://www.amazon.ca/dp/B074JGLB4H">Canada</a>,
-<a href="https://www.amazon.fr/dp/B074JGLB4H">France</a>,
-<a href="https://www.amazon.de/dp/B074JGLB4H">Germany</a>,
-<a href="https://www.amazon.in/dp/B074JGLB4H">India</a>,
-<a href="https://www.amazon.it/dp/B074JGLB4H">Italy</a>,
-<a href="https://www.amazon.co.jp/dp/B074JGLB4H">Japan</a>,
-<a href="https://www.amazon.com.mx/dp/B074JGLB4H">Mexico</a>,
-<a href="https://www.amazon.nl/dp/B074JGLB4H">Netherlands</a>,
-<a href="https://www.amazon.es/dp/B074JGLB4H">Spain</a>,
-<a href="https://www.amazon.co.uk/dp/B074JGLB4H">United Kingdom</a> and
-<a href="https://www.amazon.com/dp/B074JGLB4H">United States</a>.</li>
+<li><a href="https://www.amazon.com.au/dp/ASIN/1658872681">Australia</a>,
+<a href="https://www.amazon.com.br/dp/ASIN/1658872681">Brazil</a>,
+<a href="https://www.amazon.ca/dp/ASIN/1658872681">Canada</a>,
+<a href="https://www.amazon.fr/dp/ASIN/1658872681">France</a>,
+<a href="https://www.amazon.de/dp/ASIN/1658872681">Germany</a>,
+<a href="https://www.amazon.in/dp/ASIN/1658872681">India</a>,
+<a href="https://www.amazon.it/dp/ASIN/1658872681">Italy</a>,
+<a href="https://www.amazon.co.jp/dp/ASIN/1658872681">Japan</a>,
+<a href="https://www.amazon.com.mx/dp/ASIN/1658872681">Mexico</a>,
+<a href="https://www.amazon.nl/dp/ASIN/1658872681">Netherlands</a>,
+<a href="https://www.amazon.es/dp/ASIN/1658872681">Spain</a>,
+<a href="https://www.amazon.co.uk/dp/ASIN/1658872681">United Kingdom</a> and
+<a href="https://www.amazon.com/dp/ASIN/1658872681">United States</a>.</li>
 </ul>
     </div>
   </div>
