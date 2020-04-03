@@ -1,7 +1,10 @@
 # ubuntu-mate.boutique
 
-The website to buy Ubuntu MATE branded products and merchandise.
+#### Archived
 
-Powered by [Nikola](https://getnikola.com/) - a static page generator.
+The Boutique shop is now the **Emporium** and can be found
+at https://ubuntu-mate.org/shop/ instead.
 
-[![Build Status](https://travis-ci.org/ubuntu-mate/ubuntu-mate.boutique.svg?branch=master)](https://travis-ci.org/ubuntu-mate/ubuntu-mate.boutique)
+This website has been merged with:
+
+* https://github.com/ubuntu-mate/ubuntu-mate.org
